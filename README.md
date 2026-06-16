@@ -10,6 +10,7 @@ pinned: false
 ---
 
 # ⚽ FIFA 2026 — Travel, Climate & Performance Analytics
+LIVE -- https://huggingface.co/spaces/sadiaafsana138/Fifa-2026-AI-Analyst
 
 An end-to-end data-science platform that studies **how team strength, travel, climate, and
 altitude affect FIFA World Cup match outcomes**, predicts the live 2026 tournament, simulates who

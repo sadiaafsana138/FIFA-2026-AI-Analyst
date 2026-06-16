@@ -1,0 +1,17 @@
+pandas
+numpy
+requests
+beautifulsoup4
+folium
+xgboost
+scikit-learn
+streamlit
+plotly
+statsmodels
+python-dotenv
+groq
+geopy
+timezonefinder
+pytz
+tqdm
+ddgs

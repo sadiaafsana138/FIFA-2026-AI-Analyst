@@ -1,0 +1,2018 @@
+{
+  "Scotland": {
+    "elo": 1748.2,
+    "form": 0.7,
+    "gf": 2.2,
+    "ga": 1.0
+  },
+  "England": {
+    "elo": 1921.6,
+    "form": 0.85,
+    "gf": 2.4,
+    "ga": 0.2
+  },
+  "Wales": {
+    "elo": 1674.1,
+    "form": 0.45,
+    "gf": 1.5,
+    "ga": 1.4
+  },
+  "Northern Ireland": {
+    "elo": 1612.8,
+    "form": 0.45,
+    "gf": 1.0,
+    "ga": 1.2
+  },
+  "United States": {
+    "elo": 1773.9,
+    "form": 0.65,
+    "gf": 2.2,
+    "ga": 1.6
+  },
+  "Canada": {
+    "elo": 1790.2,
+    "form": 0.6,
+    "gf": 0.9,
+    "ga": 0.5
+  },
+  "Uruguay": {
+    "elo": 1872.2,
+    "form": 0.6,
+    "gf": 1.0,
+    "ga": 0.9
+  },
+  "Argentina": {
+    "elo": 2044.6,
+    "form": 0.85,
+    "gf": 2.5,
+    "ga": 0.3
+  },
+  "Austria": {
+    "elo": 1822.8,
+    "form": 0.85,
+    "gf": 2.7,
+    "ga": 0.4
+  },
+  "Hungary": {
+    "elo": 1735.5,
+    "form": 0.65,
+    "gf": 1.7,
+    "ga": 1.2
+  },
+  "Czechoslovakia": {
+    "elo": 1714.5,
+    "form": 0.65,
+    "gf": 2.1,
+    "ga": 0.9
+  },
+  "Belgium": {
+    "elo": 1882.4,
+    "form": 0.85,
+    "gf": 3.7,
+    "ga": 0.6
+  },
+  "France": {
+    "elo": 1990.3,
+    "form": 0.85,
+    "gf": 2.5,
+    "ga": 0.9
+  },
+  "Switzerland": {
+    "elo": 1839.2,
+    "form": 0.65,
+    "gf": 1.9,
+    "ga": 0.9
+  },
+  "Guernsey": {
+    "elo": 1681.4,
+    "form": 0.6,
+    "gf": 2.3,
+    "ga": 1.0
+  },
+  "Alderney": {
+    "elo": 1154.8,
+    "form": 0.2,
+    "gf": 0.9,
+    "ga": 3.2
+  },
+  "Jersey": {
+    "elo": 1745.1,
+    "form": 0.85,
+    "gf": 2.7,
+    "ga": 1.0
+  },
+  "Netherlands": {
+    "elo": 1888.3,
+    "form": 0.75,
+    "gf": 2.2,
+    "ga": 0.8
+  },
+  "Guyana": {
+    "elo": 1461.8,
+    "form": 0.8,
+    "gf": 2.6,
+    "ga": 1.2
+  },
+  "Trinidad and Tobago": {
+    "elo": 1511.7,
+    "form": 0.3,
+    "gf": 1.0,
+    "ga": 2.3
+  },
+  "South Africa": {
+    "elo": 1623.1,
+    "form": 0.5,
+    "gf": 1.2,
+    "ga": 1.2
+  },
+  "Germany": {
+    "elo": 1920.8,
+    "form": 0.9,
+    "gf": 2.8,
+    "ga": 0.8
+  },
+  "Sweden": {
+    "elo": 1732.1,
+    "form": 0.35,
+    "gf": 1.3,
+    "ga": 2.0
+  },
+  "Norway": {
+    "elo": 1822.3,
+    "form": 0.75,
+    "gf": 3.1,
+    "ga": 0.8
+  },
+  "Denmark": {
+    "elo": 1844.7,
+    "form": 0.7,
+    "gf": 2.4,
+    "ga": 1.0
+  },
+  "Italy": {
+    "elo": 1892.3,
+    "form": 0.85,
+    "gf": 2.4,
+    "ga": 1.0
+  },
+  "Chile": {
+    "elo": 1754.3,
+    "form": 0.55,
+    "gf": 1.4,
+    "ga": 1.6
+  },
+  "Russia": {
+    "elo": 1773.5,
+    "form": 0.7,
+    "gf": 1.9,
+    "ga": 0.7
+  },
+  "Finland": {
+    "elo": 1569.8,
+    "form": 0.35,
+    "gf": 1.1,
+    "ga": 1.7
+  },
+  "Luxembourg": {
+    "elo": 1464.9,
+    "form": 0.15,
+    "gf": 0.2,
+    "ga": 1.5
+  },
+  "Catalonia": {
+    "elo": 1659.1,
+    "form": 0.7,
+    "gf": 2.1,
+    "ga": 1.1
+  },
+  "Philippines": {
+    "elo": 1371.8,
+    "form": 0.85,
+    "gf": 2.9,
+    "ga": 1.1
+  },
+  "China": {
+    "elo": 1529.9,
+    "form": 0.4,
+    "gf": 0.8,
+    "ga": 1.2
+  },
+  "Brazil": {
+    "elo": 1942.1,
+    "form": 0.6,
+    "gf": 2.3,
+    "ga": 1.2
+  },
+  "Basque Country": {
+    "elo": 1763.1,
+    "form": 0.8,
+    "gf": 2.2,
+    "ga": 0.7
+  },
+  "Japan": {
+    "elo": 1893.4,
+    "form": 0.8,
+    "gf": 1.9,
+    "ga": 0.6
+  },
+  "Paraguay": {
+    "elo": 1801.2,
+    "form": 0.5,
+    "gf": 1.3,
+    "ga": 1.3
+  },
+  "Romania": {
+    "elo": 1648.0,
+    "form": 0.5,
+    "gf": 1.6,
+    "ga": 1.5
+  },
+  "Greece": {
+    "elo": 1723.3,
+    "form": 0.35,
+    "gf": 1.2,
+    "ga": 1.6
+  },
+  "Yugoslavia": {
+    "elo": 1753.6,
+    "form": 0.5,
+    "gf": 2.1,
+    "ga": 1.3
+  },
+  "Spain": {
+    "elo": 2032.2,
+    "form": 0.85,
+    "gf": 2.8,
+    "ga": 0.4
+  },
+  "Egypt": {
+    "elo": 1752.7,
+    "form": 0.65,
+    "gf": 1.3,
+    "ga": 0.6
+  },
+  "Estonia": {
+    "elo": 1457.3,
+    "form": 0.45,
+    "gf": 1.0,
+    "ga": 1.8
+  },
+  "Suriname": {
+    "elo": 1538.8,
+    "form": 0.4,
+    "gf": 1.3,
+    "ga": 1.4
+  },
+  "Provence": {
+    "elo": 1442.3,
+    "form": 0.4,
+    "gf": 5.5,
+    "ga": 2.0
+  },
+  "Costa Rica": {
+    "elo": 1658.4,
+    "form": 0.35,
+    "gf": 1.1,
+    "ga": 1.9
+  },
+  "El Salvador": {
+    "elo": 1490.7,
+    "form": 0.3,
+    "gf": 0.5,
+    "ga": 1.4
+  },
+  "Guatemala": {
+    "elo": 1578.7,
+    "form": 0.3,
+    "gf": 1.0,
+    "ga": 2.4
+  },
+  "Portugal": {
+    "elo": 1940.7,
+    "form": 0.8,
+    "gf": 2.6,
+    "ga": 0.9
+  },
+  "Poland": {
+    "elo": 1728.1,
+    "form": 0.65,
+    "gf": 1.7,
+    "ga": 1.3
+  },
+  "Brittany": {
+    "elo": 1516.6,
+    "form": 0.55,
+    "gf": 1.3,
+    "ga": 1.4
+  },
+  "New Zealand": {
+    "elo": 1629.3,
+    "form": 0.15,
+    "gf": 0.7,
+    "ga": 1.8
+  },
+  "Australia": {
+    "elo": 1804.5,
+    "form": 0.55,
+    "gf": 1.4,
+    "ga": 1.0
+  },
+  "Latvia": {
+    "elo": 1354.5,
+    "form": 0.25,
+    "gf": 0.5,
+    "ga": 1.4
+  },
+  "Galicia": {
+    "elo": 1540.0,
+    "form": 0.45,
+    "gf": 1.3,
+    "ga": 2.1
+  },
+  "Central Spain": {
+    "elo": 1501.0,
+    "form": 0.5,
+    "gf": 1.0,
+    "ga": 2.0
+  },
+  "Mexico": {
+    "elo": 1851.9,
+    "form": 0.8,
+    "gf": 1.8,
+    "ga": 0.4
+  },
+  "Andalusia": {
+    "elo": 1603.1,
+    "form": 0.9,
+    "gf": 2.3,
+    "ga": 0.9
+  },
+  "Asturias": {
+    "elo": 1519.0,
+    "form": 1.0,
+    "gf": 3.0,
+    "ga": 1.0
+  },
+  "Lithuania": {
+    "elo": 1356.4,
+    "form": 0.25,
+    "gf": 0.7,
+    "ga": 1.6
+  },
+  "Turkey": {
+    "elo": 1849.6,
+    "form": 0.75,
+    "gf": 2.2,
+    "ga": 1.3
+  },
+  "Aruba": {
+    "elo": 1255.7,
+    "form": 0.5,
+    "gf": 1.5,
+    "ga": 1.9
+  },
+  "Cura\u00e7ao": {
+    "elo": 1520.2,
+    "form": 0.55,
+    "gf": 1.9,
+    "ga": 1.4
+  },
+  "Bulgaria": {
+    "elo": 1525.2,
+    "form": 0.35,
+    "gf": 1.6,
+    "ga": 2.4
+  },
+  "Republic of Ireland": {
+    "elo": 1696.9,
+    "form": 0.65,
+    "gf": 1.6,
+    "ga": 0.8
+  },
+  "Haiti": {
+    "elo": 1586.0,
+    "form": 0.5,
+    "gf": 1.5,
+    "ga": 1.1
+  },
+  "Jamaica": {
+    "elo": 1611.9,
+    "form": 0.5,
+    "gf": 0.9,
+    "ga": 0.8
+  },
+  "Kenya": {
+    "elo": 1485.1,
+    "form": 0.55,
+    "gf": 1.4,
+    "ga": 1.7
+  },
+  "Uganda": {
+    "elo": 1504.6,
+    "form": 0.5,
+    "gf": 1.4,
+    "ga": 1.5
+  },
+  "Bolivia": {
+    "elo": 1622.5,
+    "form": 0.25,
+    "gf": 0.7,
+    "ga": 2.1
+  },
+  "Peru": {
+    "elo": 1706.4,
+    "form": 0.25,
+    "gf": 0.8,
+    "ga": 1.7
+  },
+  "Honduras": {
+    "elo": 1625.9,
+    "form": 0.45,
+    "gf": 0.8,
+    "ga": 0.8
+  },
+  "Belarus": {
+    "elo": 1557.9,
+    "form": 0.45,
+    "gf": 1.3,
+    "ga": 2.1
+  },
+  "Ukraine": {
+    "elo": 1774.1,
+    "form": 0.55,
+    "gf": 1.5,
+    "ga": 1.6
+  },
+  "Barbados": {
+    "elo": 1212.1,
+    "form": 0.25,
+    "gf": 1.2,
+    "ga": 2.3
+  },
+  "Nicaragua": {
+    "elo": 1470.7,
+    "form": 0.2,
+    "gf": 0.5,
+    "ga": 2.2
+  },
+  "Cuba": {
+    "elo": 1420.5,
+    "form": 0.4,
+    "gf": 1.0,
+    "ga": 1.9
+  },
+  "Martinique": {
+    "elo": 1453.5,
+    "form": 0.3,
+    "gf": 0.6,
+    "ga": 1.2
+  },
+  "Dominica": {
+    "elo": 1235.5,
+    "form": 0.3,
+    "gf": 0.7,
+    "ga": 1.8
+  },
+  "Silesia": {
+    "elo": 1497.2,
+    "form": 0.5,
+    "gf": 3.0,
+    "ga": 2.12
+  },
+  "Guadeloupe": {
+    "elo": 1494.2,
+    "form": 0.55,
+    "gf": 1.5,
+    "ga": 1.1
+  },
+  "Israel": {
+    "elo": 1635.1,
+    "form": 0.6,
+    "gf": 1.9,
+    "ga": 1.7
+  },
+  "Indonesia": {
+    "elo": 1482.4,
+    "form": 0.55,
+    "gf": 1.7,
+    "ga": 1.1
+  },
+  "French Guiana": {
+    "elo": 1418.2,
+    "form": 0.4,
+    "gf": 1.7,
+    "ga": 1.5
+  },
+  "Saint Lucia": {
+    "elo": 1301.8,
+    "form": 0.3,
+    "gf": 0.9,
+    "ga": 3.1
+  },
+  "Colombia": {
+    "elo": 1938.6,
+    "form": 0.75,
+    "gf": 2.5,
+    "ga": 1.0
+  },
+  "Panama": {
+    "elo": 1733.5,
+    "form": 0.6,
+    "gf": 1.8,
+    "ga": 1.6
+  },
+  "Venezuela": {
+    "elo": 1756.0,
+    "form": 0.35,
+    "gf": 1.1,
+    "ga": 1.7
+  },
+  "Ecuador": {
+    "elo": 1900.2,
+    "form": 0.7,
+    "gf": 1.2,
+    "ga": 0.5
+  },
+  "Saint Kitts and Nevis": {
+    "elo": 1332.4,
+    "form": 0.45,
+    "gf": 2.1,
+    "ga": 2.7
+  },
+  "Grenada": {
+    "elo": 1313.9,
+    "form": 0.5,
+    "gf": 1.7,
+    "ga": 2.1
+  },
+  "India": {
+    "elo": 1300.1,
+    "form": 0.15,
+    "gf": 0.4,
+    "ga": 1.4
+  },
+  "Slovakia": {
+    "elo": 1669.3,
+    "form": 0.65,
+    "gf": 1.5,
+    "ga": 1.5
+  },
+  "Manchukuo": {
+    "elo": 1451.2,
+    "form": 0.0,
+    "gf": 0.0,
+    "ga": 5.33
+  },
+  "Croatia": {
+    "elo": 1880.7,
+    "form": 0.75,
+    "gf": 1.9,
+    "ga": 1.0
+  },
+  "Lebanon": {
+    "elo": 1445.5,
+    "form": 0.65,
+    "gf": 2.1,
+    "ga": 0.5
+  },
+  "Puerto Rico": {
+    "elo": 1366.4,
+    "form": 0.4,
+    "gf": 1.1,
+    "ga": 1.9
+  },
+  "Afghanistan": {
+    "elo": 1226.5,
+    "form": 0.2,
+    "gf": 0.4,
+    "ga": 1.5
+  },
+  "Iran": {
+    "elo": 1810.7,
+    "form": 0.6,
+    "gf": 1.7,
+    "ga": 0.6
+  },
+  "Mongolia": {
+    "elo": 1113.3,
+    "form": 0.2,
+    "gf": 0.5,
+    "ga": 2.4
+  },
+  "Tanzania": {
+    "elo": 1411.2,
+    "form": 0.2,
+    "gf": 1.2,
+    "ga": 1.4
+  },
+  "Zimbabwe": {
+    "elo": 1473.2,
+    "form": 0.4,
+    "gf": 1.1,
+    "ga": 1.3
+  },
+  "Zambia": {
+    "elo": 1526.2,
+    "form": 0.2,
+    "gf": 0.5,
+    "ga": 2.3
+  },
+  "Iceland": {
+    "elo": 1603.3,
+    "form": 0.25,
+    "gf": 1.1,
+    "ga": 2.2
+  },
+  "Albania": {
+    "elo": 1593.9,
+    "form": 0.5,
+    "gf": 0.9,
+    "ga": 0.9
+  },
+  "Montenegro": {
+    "elo": 1535.2,
+    "form": 0.45,
+    "gf": 1.3,
+    "ga": 2.0
+  },
+  "Madagascar": {
+    "elo": 1489.0,
+    "form": 0.55,
+    "gf": 1.7,
+    "ga": 1.9
+  },
+  "Mauritius": {
+    "elo": 1260.9,
+    "form": 0.25,
+    "gf": 0.6,
+    "ga": 1.5
+  },
+  "R\u00e9union": {
+    "elo": 1552.4,
+    "form": 0.65,
+    "gf": 1.6,
+    "ga": 0.6
+  },
+  "Zanzibar": {
+    "elo": 1526.0,
+    "form": 0.7,
+    "gf": 1.3,
+    "ga": 0.8
+  },
+  "Djibouti": {
+    "elo": 1138.7,
+    "form": 0.1,
+    "gf": 0.5,
+    "ga": 2.7
+  },
+  "Ethiopia": {
+    "elo": 1409.9,
+    "form": 0.45,
+    "gf": 1.2,
+    "ga": 1.4
+  },
+  "DR Congo": {
+    "elo": 1678.4,
+    "form": 0.65,
+    "gf": 1.1,
+    "ga": 0.5
+  },
+  "South Korea": {
+    "elo": 1822.9,
+    "form": 0.65,
+    "gf": 1.5,
+    "ga": 1.3
+  },
+  "Vietnam": {
+    "elo": 1505.3,
+    "form": 0.9,
+    "gf": 2.4,
+    "ga": 1.0
+  },
+  "Macau": {
+    "elo": 994.0,
+    "form": 0.05,
+    "gf": 0.3,
+    "ga": 2.8
+  },
+  "Dominican Republic": {
+    "elo": 1449.1,
+    "form": 0.3,
+    "gf": 1.0,
+    "ga": 1.6
+  },
+  "Cyprus": {
+    "elo": 1408.5,
+    "form": 0.45,
+    "gf": 1.6,
+    "ga": 1.5
+  },
+  "Sierra Leone": {
+    "elo": 1447.6,
+    "form": 0.5,
+    "gf": 1.1,
+    "ga": 1.1
+  },
+  "Nigeria": {
+    "elo": 1764.2,
+    "form": 0.7,
+    "gf": 1.8,
+    "ga": 0.7
+  },
+  "Syria": {
+    "elo": 1531.6,
+    "form": 0.65,
+    "gf": 2.0,
+    "ga": 0.9
+  },
+  "Serbia": {
+    "elo": 1745.6,
+    "form": 0.4,
+    "gf": 0.9,
+    "ga": 2.2
+  },
+  "Taiwan": {
+    "elo": 1189.7,
+    "form": 0.2,
+    "gf": 1.4,
+    "ga": 2.9
+  },
+  "Ghana": {
+    "elo": 1589.8,
+    "form": 0.4,
+    "gf": 1.1,
+    "ga": 1.4
+  },
+  "Myanmar": {
+    "elo": 1219.9,
+    "form": 0.5,
+    "gf": 1.6,
+    "ga": 2.4
+  },
+  "New Caledonia": {
+    "elo": 1554.7,
+    "form": 0.7,
+    "gf": 2.3,
+    "ga": 1.0
+  },
+  "Vanuatu": {
+    "elo": 1457.4,
+    "form": 0.5,
+    "gf": 1.6,
+    "ga": 2.2
+  },
+  "Fiji": {
+    "elo": 1442.7,
+    "form": 0.25,
+    "gf": 0.7,
+    "ga": 2.8
+  },
+  "Pakistan": {
+    "elo": 1176.4,
+    "form": 0.4,
+    "gf": 0.8,
+    "ga": 1.5
+  },
+  "Sri Lanka": {
+    "elo": 1109.4,
+    "form": 0.45,
+    "gf": 0.9,
+    "ga": 1.5
+  },
+  "German DR": {
+    "elo": 1707.8,
+    "form": 0.75,
+    "gf": 1.9,
+    "ga": 1.3
+  },
+  "Tahiti": {
+    "elo": 1516.9,
+    "form": 0.55,
+    "gf": 1.2,
+    "ga": 1.4
+  },
+  "Gambia": {
+    "elo": 1509.7,
+    "form": 0.5,
+    "gf": 2.2,
+    "ga": 1.6
+  },
+  "Hong Kong": {
+    "elo": 1335.0,
+    "form": 0.55,
+    "gf": 1.9,
+    "ga": 1.1
+  },
+  "Singapore": {
+    "elo": 1336.9,
+    "form": 0.6,
+    "gf": 1.9,
+    "ga": 1.3
+  },
+  "Malaysia": {
+    "elo": 1505.1,
+    "form": 0.8,
+    "gf": 1.9,
+    "ga": 0.6
+  },
+  "Guinea-Bissau": {
+    "elo": 1394.4,
+    "form": 0.2,
+    "gf": 0.6,
+    "ga": 1.7
+  },
+  "Saarland": {
+    "elo": 1445.0,
+    "form": 0.222,
+    "gf": 1.11,
+    "ga": 2.89
+  },
+  "Burundi": {
+    "elo": 1406.7,
+    "form": 0.25,
+    "gf": 0.6,
+    "ga": 1.4
+  },
+  "Cameroon": {
+    "elo": 1676.2,
+    "form": 0.6,
+    "gf": 1.0,
+    "ga": 0.7
+  },
+  "Kernow": {
+    "elo": 1585.8,
+    "form": 0.8,
+    "gf": 2.7,
+    "ga": 0.9
+  },
+  "Cambodia": {
+    "elo": 1155.6,
+    "form": 0.4,
+    "gf": 1.7,
+    "ga": 1.5
+  },
+  "Thailand": {
+    "elo": 1526.8,
+    "form": 0.7,
+    "gf": 2.3,
+    "ga": 0.9
+  },
+  "Vietnam Republic": {
+    "elo": 1436.4,
+    "form": 0.3,
+    "gf": 1.0,
+    "ga": 2.0
+  },
+  "Kyrgyzstan": {
+    "elo": 1436.6,
+    "form": 0.3,
+    "gf": 1.0,
+    "ga": 1.7
+  },
+  "Moldova": {
+    "elo": 1354.8,
+    "form": 0.15,
+    "gf": 0.9,
+    "ga": 3.2
+  },
+  "North Vietnam": {
+    "elo": 1484.2,
+    "form": 0.55,
+    "gf": 2.5,
+    "ga": 1.5
+  },
+  "Togo": {
+    "elo": 1499.9,
+    "form": 0.5,
+    "gf": 1.2,
+    "ga": 1.1
+  },
+  "North Korea": {
+    "elo": 1496.4,
+    "form": 0.2,
+    "gf": 1.0,
+    "ga": 2.1
+  },
+  "Sudan": {
+    "elo": 1461.8,
+    "form": 0.25,
+    "gf": 0.5,
+    "ga": 1.7
+  },
+  "Malta": {
+    "elo": 1393.5,
+    "form": 0.4,
+    "gf": 1.1,
+    "ga": 2.3
+  },
+  "Tunisia": {
+    "elo": 1703.1,
+    "form": 0.5,
+    "gf": 1.3,
+    "ga": 1.4
+  },
+  "Libya": {
+    "elo": 1538.3,
+    "form": 0.6,
+    "gf": 1.1,
+    "ga": 0.9
+  },
+  "Malawi": {
+    "elo": 1435.2,
+    "form": 0.45,
+    "gf": 0.9,
+    "ga": 0.9
+  },
+  "Morocco": {
+    "elo": 1883.2,
+    "form": 0.8,
+    "gf": 2.0,
+    "ga": 0.4
+  },
+  "Benin": {
+    "elo": 1512.0,
+    "form": 0.35,
+    "gf": 0.6,
+    "ga": 2.0
+  },
+  "Cape Verde": {
+    "elo": 1621.3,
+    "form": 0.6,
+    "gf": 1.6,
+    "ga": 1.2
+  },
+  "Ivory Coast": {
+    "elo": 1759.1,
+    "form": 0.75,
+    "gf": 1.9,
+    "ga": 0.8
+  },
+  "Burkina Faso": {
+    "elo": 1639.2,
+    "form": 0.6,
+    "gf": 1.8,
+    "ga": 1.3
+  },
+  "Gabon": {
+    "elo": 1523.1,
+    "form": 0.4,
+    "gf": 1.8,
+    "ga": 1.9
+  },
+  "Congo": {
+    "elo": 1370.9,
+    "form": 0.2,
+    "gf": 0.6,
+    "ga": 2.3
+  },
+  "Mali": {
+    "elo": 1659.5,
+    "form": 0.55,
+    "gf": 1.2,
+    "ga": 0.9
+  },
+  "Central African Republic": {
+    "elo": 1375.2,
+    "form": 0.3,
+    "gf": 0.7,
+    "ga": 2.1
+  },
+  "Iraq": {
+    "elo": 1688.0,
+    "form": 0.6,
+    "gf": 1.1,
+    "ga": 1.0
+  },
+  "Saint Vincent and the Grenadines": {
+    "elo": 1387.6,
+    "form": 0.65,
+    "gf": 2.6,
+    "ga": 1.1
+  },
+  "Senegal": {
+    "elo": 1828.6,
+    "form": 0.7,
+    "gf": 1.6,
+    "ga": 0.9
+  },
+  "Laos": {
+    "elo": 1065.4,
+    "form": 0.2,
+    "gf": 1.1,
+    "ga": 2.9
+  },
+  "Chad": {
+    "elo": 1295.1,
+    "form": 0.15,
+    "gf": 0.8,
+    "ga": 2.1
+  },
+  "Niger": {
+    "elo": 1441.7,
+    "form": 0.45,
+    "gf": 0.9,
+    "ga": 1.3
+  },
+  "Mauritania": {
+    "elo": 1471.8,
+    "form": 0.4,
+    "gf": 0.6,
+    "ga": 1.1
+  },
+  "Liberia": {
+    "elo": 1402.2,
+    "form": 0.45,
+    "gf": 1.3,
+    "ga": 1.5
+  },
+  "Guinea": {
+    "elo": 1527.5,
+    "form": 0.5,
+    "gf": 1.2,
+    "ga": 0.9
+  },
+  "Algeria": {
+    "elo": 1824.3,
+    "form": 0.8,
+    "gf": 2.1,
+    "ga": 0.4
+  },
+  "Kuwait": {
+    "elo": 1480.9,
+    "form": 0.4,
+    "gf": 1.5,
+    "ga": 2.2
+  },
+  "Jordan": {
+    "elo": 1677.7,
+    "form": 0.6,
+    "gf": 1.7,
+    "ga": 1.5
+  },
+  "Papua New Guinea": {
+    "elo": 1468.1,
+    "form": 0.65,
+    "gf": 1.8,
+    "ga": 1.5
+  },
+  "Solomon Islands": {
+    "elo": 1404.3,
+    "form": 0.2,
+    "gf": 1.6,
+    "ga": 2.9
+  },
+  "Somalia": {
+    "elo": 1139.0,
+    "form": 0.2,
+    "gf": 0.4,
+    "ga": 1.7
+  },
+  "Saudi Arabia": {
+    "elo": 1647.9,
+    "form": 0.45,
+    "gf": 1.2,
+    "ga": 1.3
+  },
+  "Bermuda": {
+    "elo": 1376.8,
+    "form": 0.35,
+    "gf": 1.4,
+    "ga": 2.6
+  },
+  "Palestine": {
+    "elo": 1526.0,
+    "form": 0.4,
+    "gf": 0.5,
+    "ga": 0.9
+  },
+  "Yemen": {
+    "elo": 1316.2,
+    "form": 0.65,
+    "gf": 2.8,
+    "ga": 1.0
+  },
+  "Bahrain": {
+    "elo": 1503.6,
+    "form": 0.25,
+    "gf": 0.9,
+    "ga": 1.7
+  },
+  "Oman": {
+    "elo": 1570.6,
+    "form": 0.4,
+    "gf": 0.7,
+    "ga": 1.1
+  },
+  "Wallis Islands and Futuna": {
+    "elo": 1381.5,
+    "form": 0.1,
+    "gf": 0.7,
+    "ga": 5.8
+  },
+  "Corsica": {
+    "elo": 1555.8,
+    "form": 0.667,
+    "gf": 1.11,
+    "ga": 0.56
+  },
+  "Western Australia": {
+    "elo": 1457.2,
+    "form": 0.4,
+    "gf": 1.4,
+    "ga": 1.7
+  },
+  "Eswatini": {
+    "elo": 1338.7,
+    "form": 0.25,
+    "gf": 0.7,
+    "ga": 2.4
+  },
+  "Botswana": {
+    "elo": 1432.0,
+    "form": 0.25,
+    "gf": 0.6,
+    "ga": 1.8
+  },
+  "Qatar": {
+    "elo": 1558.2,
+    "form": 0.3,
+    "gf": 0.6,
+    "ga": 1.4
+  },
+  "Lesotho": {
+    "elo": 1396.1,
+    "form": 0.35,
+    "gf": 0.7,
+    "ga": 1.9
+  },
+  "Bahamas": {
+    "elo": 1121.7,
+    "form": 0.15,
+    "gf": 1.2,
+    "ga": 3.9
+  },
+  "Brunei": {
+    "elo": 1046.4,
+    "form": 0.25,
+    "gf": 0.4,
+    "ga": 2.4
+  },
+  "Cook Islands": {
+    "elo": 1278.9,
+    "form": 0.2,
+    "gf": 0.5,
+    "ga": 3.3
+  },
+  "Yemen DPR": {
+    "elo": 1429.4,
+    "form": 0.25,
+    "gf": 1.0,
+    "ga": 2.4
+  },
+  "United Arab Emirates": {
+    "elo": 1622.0,
+    "form": 0.45,
+    "gf": 1.2,
+    "ga": 1.4
+  },
+  "Faroe Islands": {
+    "elo": 1424.5,
+    "form": 0.7,
+    "gf": 1.4,
+    "ga": 0.8
+  },
+  "Nepal": {
+    "elo": 1202.9,
+    "form": 0.35,
+    "gf": 0.7,
+    "ga": 1.1
+  },
+  "Antigua and Barbuda": {
+    "elo": 1222.7,
+    "form": 0.1,
+    "gf": 0.3,
+    "ga": 2.2
+  },
+  "Bangladesh": {
+    "elo": 1211.6,
+    "form": 0.5,
+    "gf": 1.2,
+    "ga": 1.3
+  },
+  "Seychelles": {
+    "elo": 1104.9,
+    "form": 0.0,
+    "gf": 0.2,
+    "ga": 5.3
+  },
+  "Equatorial Guinea": {
+    "elo": 1443.5,
+    "form": 0.2,
+    "gf": 0.5,
+    "ga": 1.5
+  },
+  "Mozambique": {
+    "elo": 1477.5,
+    "form": 0.35,
+    "gf": 1.0,
+    "ga": 1.5
+  },
+  "Guam": {
+    "elo": 1118.0,
+    "form": 0.25,
+    "gf": 1.4,
+    "ga": 2.8
+  },
+  "Angola": {
+    "elo": 1556.4,
+    "form": 0.55,
+    "gf": 1.4,
+    "ga": 1.1
+  },
+  "S\u00e3o Tom\u00e9 and Pr\u00edncipe": {
+    "elo": 1236.8,
+    "form": 0.2,
+    "gf": 0.6,
+    "ga": 2.1
+  },
+  "Rwanda": {
+    "elo": 1463.2,
+    "form": 0.35,
+    "gf": 0.8,
+    "ga": 1.2
+  },
+  "Northern Cyprus": {
+    "elo": 1612.1,
+    "form": 0.75,
+    "gf": 2.8,
+    "ga": 0.8
+  },
+  "Armenia": {
+    "elo": 1433.7,
+    "form": 0.25,
+    "gf": 0.8,
+    "ga": 2.5
+  },
+  "Georgia": {
+    "elo": 1647.9,
+    "form": 0.4,
+    "gf": 1.4,
+    "ga": 1.8
+  },
+  "Azerbaijan": {
+    "elo": 1406.2,
+    "form": 0.3,
+    "gf": 1.2,
+    "ga": 2.1
+  },
+  "Kazakhstan": {
+    "elo": 1481.3,
+    "form": 0.45,
+    "gf": 1.1,
+    "ga": 1.4
+  },
+  "Comoros": {
+    "elo": 1485.9,
+    "form": 0.3,
+    "gf": 0.8,
+    "ga": 1.5
+  },
+  "Maldives": {
+    "elo": 1116.8,
+    "form": 0.15,
+    "gf": 0.6,
+    "ga": 2.0
+  },
+  "Tonga": {
+    "elo": 1206.2,
+    "form": 0.2,
+    "gf": 1.2,
+    "ga": 4.5
+  },
+  "Tuvalu": {
+    "elo": 1331.2,
+    "form": 0.25,
+    "gf": 1.3,
+    "ga": 5.6
+  },
+  "Kiribati": {
+    "elo": 1368.4,
+    "form": 0.05,
+    "gf": 0.7,
+    "ga": 10.2
+  },
+  "Samoa": {
+    "elo": 1315.6,
+    "form": 0.4,
+    "gf": 1.2,
+    "ga": 3.0
+  },
+  "Greenland": {
+    "elo": 1455.6,
+    "form": 0.55,
+    "gf": 1.4,
+    "ga": 2.2
+  },
+  "Liechtenstein": {
+    "elo": 1104.2,
+    "form": 0.1,
+    "gf": 0.3,
+    "ga": 3.3
+  },
+  "Bhutan": {
+    "elo": 989.9,
+    "form": 0.15,
+    "gf": 0.3,
+    "ga": 2.4
+  },
+  "South Yemen": {
+    "elo": 1480.3,
+    "form": 0.0,
+    "gf": 0.33,
+    "ga": 2.67
+  },
+  "Niue": {
+    "elo": 1471.7,
+    "form": 0.0,
+    "gf": 0.0,
+    "ga": 16.5
+  },
+  "American Samoa": {
+    "elo": 1127.5,
+    "form": 0.05,
+    "gf": 0.6,
+    "ga": 6.6
+  },
+  "Belize": {
+    "elo": 1334.3,
+    "form": 0.35,
+    "gf": 1.5,
+    "ga": 2.7
+  },
+  "Cayman Islands": {
+    "elo": 1165.6,
+    "form": 0.25,
+    "gf": 0.9,
+    "ga": 2.4
+  },
+  "Anguilla": {
+    "elo": 1084.0,
+    "form": 0.2,
+    "gf": 0.8,
+    "ga": 2.8
+  },
+  "British Virgin Islands": {
+    "elo": 1159.3,
+    "form": 0.5,
+    "gf": 1.7,
+    "ga": 1.5
+  },
+  "Palau": {
+    "elo": 1454.3,
+    "form": 0.0,
+    "gf": 2.0,
+    "ga": 10.5
+  },
+  "Sint Maarten": {
+    "elo": 1358.6,
+    "form": 0.6,
+    "gf": 1.3,
+    "ga": 2.2
+  },
+  "Namibia": {
+    "elo": 1424.6,
+    "form": 0.3,
+    "gf": 0.7,
+    "ga": 1.6
+  },
+  "Ynys M\u00f4n": {
+    "elo": 1650.3,
+    "form": 0.9,
+    "gf": 2.1,
+    "ga": 1.0
+  },
+  "Shetland": {
+    "elo": 1493.3,
+    "form": 0.4,
+    "gf": 1.8,
+    "ga": 2.0
+  },
+  "\u00c5land Islands": {
+    "elo": 1473.7,
+    "form": 0.4,
+    "gf": 0.8,
+    "ga": 1.4
+  },
+  "Saint Martin": {
+    "elo": 1321.8,
+    "form": 0.5,
+    "gf": 1.7,
+    "ga": 1.7
+  },
+  "San Marino": {
+    "elo": 999.6,
+    "form": 0.05,
+    "gf": 0.5,
+    "ga": 3.7
+  },
+  "Montserrat": {
+    "elo": 1300.1,
+    "form": 0.2,
+    "gf": 0.6,
+    "ga": 2.0
+  },
+  "Slovenia": {
+    "elo": 1705.5,
+    "form": 0.35,
+    "gf": 0.8,
+    "ga": 1.4
+  },
+  "Isle of Wight": {
+    "elo": 1615.5,
+    "form": 0.75,
+    "gf": 1.9,
+    "ga": 0.9
+  },
+  "Turkmenistan": {
+    "elo": 1403.7,
+    "form": 0.55,
+    "gf": 1.6,
+    "ga": 1.4
+  },
+  "Tajikistan": {
+    "elo": 1440.7,
+    "form": 0.8,
+    "gf": 2.2,
+    "ga": 1.1
+  },
+  "Uzbekistan": {
+    "elo": 1735.0,
+    "form": 0.55,
+    "gf": 1.4,
+    "ga": 0.9
+  },
+  "Eritrea": {
+    "elo": 1272.0,
+    "form": 0.05,
+    "gf": 0.4,
+    "ga": 2.1
+  },
+  "Gibraltar": {
+    "elo": 1228.8,
+    "form": 0.3,
+    "gf": 1.4,
+    "ga": 1.9
+  },
+  "Isle of Man": {
+    "elo": 1650.4,
+    "form": 0.7,
+    "gf": 3.5,
+    "ga": 1.2
+  },
+  "North Macedonia": {
+    "elo": 1600.5,
+    "form": 0.35,
+    "gf": 0.8,
+    "ga": 1.8
+  },
+  "Czech Republic": {
+    "elo": 1744.9,
+    "form": 0.6,
+    "gf": 2.1,
+    "ga": 1.1
+  },
+  "Bosnia and Herzegovina": {
+    "elo": 1628.0,
+    "form": 0.55,
+    "gf": 1.5,
+    "ga": 1.1
+  },
+  "Canary Islands": {
+    "elo": 1512.6,
+    "form": 0.75,
+    "gf": 2.75,
+    "ga": 0.75
+  },
+  "Andorra": {
+    "elo": 1195.9,
+    "form": 0.25,
+    "gf": 0.5,
+    "ga": 1.6
+  },
+  "Hitra": {
+    "elo": 1394.5,
+    "form": 0.45,
+    "gf": 2.3,
+    "ga": 2.9
+  },
+  "Fr\u00f8ya": {
+    "elo": 1292.1,
+    "form": 0.15,
+    "gf": 1.3,
+    "ga": 3.9
+  },
+  "United States Virgin Islands": {
+    "elo": 1125.2,
+    "form": 0.4,
+    "gf": 1.5,
+    "ga": 2.0
+  },
+  "Northern Mariana Islands": {
+    "elo": 1155.3,
+    "form": 0.3,
+    "gf": 1.0,
+    "ga": 4.4
+  },
+  "Turks and Caicos Islands": {
+    "elo": 1209.0,
+    "form": 0.4,
+    "gf": 0.9,
+    "ga": 1.8
+  },
+  "Micronesia": {
+    "elo": 1424.9,
+    "form": 0.143,
+    "gf": 1.14,
+    "ga": 8.43
+  },
+  "Rhodes": {
+    "elo": 1563.9,
+    "form": 0.7,
+    "gf": 1.7,
+    "ga": 0.9
+  },
+  "Saare County": {
+    "elo": 1366.6,
+    "form": 0.4,
+    "gf": 1.6,
+    "ga": 2.1
+  },
+  "Gotland": {
+    "elo": 1424.6,
+    "form": 0.3,
+    "gf": 2.9,
+    "ga": 1.9
+  },
+  "Monaco": {
+    "elo": 1478.3,
+    "form": 0.4,
+    "gf": 1.3,
+    "ga": 2.9
+  },
+  "Western Sahara": {
+    "elo": 1440.1,
+    "form": 0.278,
+    "gf": 1.78,
+    "ga": 4.22
+  },
+  "Tibet": {
+    "elo": 1329.4,
+    "form": 0.1,
+    "gf": 1.6,
+    "ga": 4.1
+  },
+  "Orkney": {
+    "elo": 1419.2,
+    "form": 0.55,
+    "gf": 1.9,
+    "ga": 1.8
+  },
+  "Falkland Islands": {
+    "elo": 1303.4,
+    "form": 0.05,
+    "gf": 0.7,
+    "ga": 3.3
+  },
+  "Mayotte": {
+    "elo": 1455.9,
+    "form": 0.6,
+    "gf": 1.2,
+    "ga": 0.8
+  },
+  "Vatican City": {
+    "elo": 1425.9,
+    "form": 0.188,
+    "gf": 0.75,
+    "ga": 2.62
+  },
+  "Timor-Leste": {
+    "elo": 1018.8,
+    "form": 0.1,
+    "gf": 0.6,
+    "ga": 3.5
+  },
+  "Sark": {
+    "elo": 1446.2,
+    "form": 0.0,
+    "gf": 0.0,
+    "ga": 17.5
+  },
+  "Sealand": {
+    "elo": 1492.0,
+    "form": 0.6,
+    "gf": 2.4,
+    "ga": 2.5
+  },
+  "Occitania": {
+    "elo": 1627.1,
+    "form": 0.85,
+    "gf": 3.3,
+    "ga": 0.6
+  },
+  "Chechnya": {
+    "elo": 1474.0,
+    "form": 0.167,
+    "gf": 1.0,
+    "ga": 9.67
+  },
+  "Ambazonia": {
+    "elo": 1443.7,
+    "form": 0.083,
+    "gf": 0.5,
+    "ga": 2.83
+  },
+  "Western Isles": {
+    "elo": 1463.0,
+    "form": 0.35,
+    "gf": 1.1,
+    "ga": 1.9
+  },
+  "Kosovo": {
+    "elo": 1678.2,
+    "form": 0.6,
+    "gf": 1.4,
+    "ga": 1.1
+  },
+  "Republic of St. Pauli": {
+    "elo": 1470.4,
+    "form": 0.375,
+    "gf": 2.5,
+    "ga": 1.25
+  },
+  "G\u0103g\u0103uzia": {
+    "elo": 1451.3,
+    "form": 0.167,
+    "gf": 0.67,
+    "ga": 3.0
+  },
+  "Crimea": {
+    "elo": 1519.8,
+    "form": 0.6,
+    "gf": 1.4,
+    "ga": 2.2
+  },
+  "S\u00e1pmi": {
+    "elo": 1449.6,
+    "form": 0.3,
+    "gf": 1.1,
+    "ga": 2.0
+  },
+  "Romani people": {
+    "elo": 1469.0,
+    "form": 0.286,
+    "gf": 1.86,
+    "ga": 3.71
+  },
+  "Menorca": {
+    "elo": 1525.4,
+    "form": 0.5,
+    "gf": 1.8,
+    "ga": 1.2
+  },
+  "Iraqi Kurdistan": {
+    "elo": 1589.1,
+    "form": 0.6,
+    "gf": 2.3,
+    "ga": 0.9
+  },
+  "Padania": {
+    "elo": 1613.3,
+    "form": 0.6,
+    "gf": 2.5,
+    "ga": 0.9
+  },
+  "Arameans Suryoye": {
+    "elo": 1542.6,
+    "form": 0.6,
+    "gf": 1.6,
+    "ga": 1.2
+  },
+  "Gozo": {
+    "elo": 1473.7,
+    "form": 0.5,
+    "gf": 2.6,
+    "ga": 1.4
+  },
+  "Two Sicilies": {
+    "elo": 1460.7,
+    "form": 0.167,
+    "gf": 0.5,
+    "ga": 3.0
+  },
+  "Saint Barth\u00e9lemy": {
+    "elo": 1421.5,
+    "form": 0.45,
+    "gf": 2.5,
+    "ga": 3.0
+  },
+  "Saint Pierre and Miquelon": {
+    "elo": 1412.1,
+    "form": 0.0,
+    "gf": 0.29,
+    "ga": 11.14
+  },
+  "Bonaire": {
+    "elo": 1255.4,
+    "form": 0.2,
+    "gf": 0.8,
+    "ga": 2.2
+  },
+  "Chagos Islands": {
+    "elo": 1399.4,
+    "form": 0.15,
+    "gf": 1.5,
+    "ga": 5.6
+  },
+  "Raetia": {
+    "elo": 1422.8,
+    "form": 0.4,
+    "gf": 2.5,
+    "ga": 3.2
+  },
+  "Cilento": {
+    "elo": 1487.9,
+    "form": 0.0,
+    "gf": 0.0,
+    "ga": 2.0
+  },
+  "Kurdistan": {
+    "elo": 1554.2,
+    "form": 0.9,
+    "gf": 2.4,
+    "ga": 0.4
+  },
+  "Darfur": {
+    "elo": 1404.1,
+    "form": 0.0,
+    "gf": 0.14,
+    "ga": 14.14
+  },
+  "Tamil Eelam": {
+    "elo": 1545.7,
+    "form": 0.8,
+    "gf": 2.7,
+    "ga": 1.3
+  },
+  "South Sudan": {
+    "elo": 1305.4,
+    "form": 0.25,
+    "gf": 0.6,
+    "ga": 2.0
+  },
+  "Abkhazia": {
+    "elo": 1577.7,
+    "form": 0.7,
+    "gf": 1.8,
+    "ga": 0.7
+  },
+  "Artsakh": {
+    "elo": 1536.7,
+    "form": 0.65,
+    "gf": 3.1,
+    "ga": 1.3
+  },
+  "Madrid": {
+    "elo": 1486.0,
+    "form": 0.0,
+    "gf": 1.0,
+    "ga": 2.0
+  },
+  "Quebec": {
+    "elo": 1506.4,
+    "form": 0.667,
+    "gf": 8.0,
+    "ga": 0.67
+  },
+  "Saugeais": {
+    "elo": 1496.0,
+    "form": 0.5,
+    "gf": 1.0,
+    "ga": 1.0
+  },
+  "South Ossetia": {
+    "elo": 1480.1,
+    "form": 0.5,
+    "gf": 1.3,
+    "ga": 2.2
+  },
+  "Ellan Vannin": {
+    "elo": 1550.9,
+    "form": 0.55,
+    "gf": 1.6,
+    "ga": 1.4
+  },
+  "Somaliland": {
+    "elo": 1483.2,
+    "form": 0.417,
+    "gf": 2.33,
+    "ga": 3.33
+  },
+  "Franconia": {
+    "elo": 1508.3,
+    "form": 0.667,
+    "gf": 2.67,
+    "ga": 3.67
+  },
+  "County of Nice": {
+    "elo": 1568.1,
+    "form": 0.722,
+    "gf": 2.11,
+    "ga": 1.44
+  },
+  "Seborga": {
+    "elo": 1481.1,
+    "form": 0.0,
+    "gf": 2.0,
+    "ga": 3.0
+  },
+  "Sz\u00e9kely Land": {
+    "elo": 1478.0,
+    "form": 0.4,
+    "gf": 2.1,
+    "ga": 2.2
+  },
+  "Luhansk PR": {
+    "elo": 1490.4,
+    "form": 0.417,
+    "gf": 1.5,
+    "ga": 2.0
+  },
+  "Donetsk PR": {
+    "elo": 1511.5,
+    "form": 0.5,
+    "gf": 1.33,
+    "ga": 1.17
+  },
+  "Felvid\u00e9k": {
+    "elo": 1516.3,
+    "form": 0.5,
+    "gf": 1.1,
+    "ga": 1.6
+  },
+  "Panjab": {
+    "elo": 1539.0,
+    "form": 0.5,
+    "gf": 3.0,
+    "ga": 1.4
+  },
+  "United Koreans in Japan": {
+    "elo": 1489.6,
+    "form": 0.5,
+    "gf": 1.9,
+    "ga": 0.8
+  },
+  "Western Armenia": {
+    "elo": 1493.7,
+    "form": 0.5,
+    "gf": 2.0,
+    "ga": 1.3
+  },
+  "K\u00e1rp\u00e1talja": {
+    "elo": 1566.4,
+    "form": 0.7,
+    "gf": 2.4,
+    "ga": 1.2
+  },
+  "D\u00e9lvid\u00e9k": {
+    "elo": 1491.3,
+    "form": 0.5,
+    "gf": 2.0,
+    "ga": 1.5
+  },
+  "Barawa": {
+    "elo": 1409.8,
+    "form": 0.3,
+    "gf": 1.4,
+    "ga": 3.8
+  },
+  "Ry\u016bky\u016b": {
+    "elo": 1481.3,
+    "form": 0.0,
+    "gf": 0.0,
+    "ga": 9.0
+  },
+  "Yorkshire": {
+    "elo": 1547.6,
+    "form": 0.786,
+    "gf": 3.86,
+    "ga": 1.57
+  },
+  "Surrey": {
+    "elo": 1516.0,
+    "form": 1.0,
+    "gf": 3.0,
+    "ga": 1.0
+  },
+  "Kabylia": {
+    "elo": 1482.0,
+    "form": 0.333,
+    "gf": 1.33,
+    "ga": 2.5
+  },
+  "Matabeleland": {
+    "elo": 1509.4,
+    "form": 0.5,
+    "gf": 0.88,
+    "ga": 1.75
+  },
+  "Cascadia": {
+    "elo": 1535.7,
+    "form": 0.643,
+    "gf": 3.29,
+    "ga": 2.0
+  },
+  "Parishes of Jersey": {
+    "elo": 1511.1,
+    "form": 0.667,
+    "gf": 3.67,
+    "ga": 1.33
+  },
+  "Chameria": {
+    "elo": 1521.2,
+    "form": 0.571,
+    "gf": 2.0,
+    "ga": 1.14
+  },
+  "Saint Helena": {
+    "elo": 1409.4,
+    "form": 0.0,
+    "gf": 0.75,
+    "ga": 5.12
+  },
+  "West Papua": {
+    "elo": 1475.5,
+    "form": 0.25,
+    "gf": 1.5,
+    "ga": 4.5
+  },
+  "East Turkestan": {
+    "elo": 1492.3,
+    "form": 0.4,
+    "gf": 3.0,
+    "ga": 3.2
+  },
+  "Elba Island": {
+    "elo": 1517.4,
+    "form": 1.0,
+    "gf": 4.5,
+    "ga": 1.0
+  },
+  "Yoruba Nation": {
+    "elo": 1478.9,
+    "form": 0.25,
+    "gf": 0.5,
+    "ga": 1.0
+  },
+  "Biafra": {
+    "elo": 1514.0,
+    "form": 0.667,
+    "gf": 0.67,
+    "ga": 0.33
+  },
+  "Mapuche": {
+    "elo": 1495.2,
+    "form": 0.5,
+    "gf": 1.5,
+    "ga": 1.0
+  },
+  "Maule Sur": {
+    "elo": 1534.2,
+    "form": 1.0,
+    "gf": 1.0,
+    "ga": 0.0
+  },
+  "Aymara": {
+    "elo": 1470.6,
+    "form": 0.0,
+    "gf": 0.5,
+    "ga": 2.0
+  },
+  "Ticino": {
+    "elo": 1462.6,
+    "form": 0.0,
+    "gf": 1.0,
+    "ga": 6.5
+  },
+  "Hmong": {
+    "elo": 1482.8,
+    "form": 0.333,
+    "gf": 2.0,
+    "ga": 3.33
+  },
+  "Marshall Islands": {
+    "elo": 1448.4,
+    "form": 0.0,
+    "gf": 1.0,
+    "ga": 3.5
+  }
+}

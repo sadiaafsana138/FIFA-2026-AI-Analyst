@@ -1,0 +1,2513 @@
+{
+  "-26.205_28.0497_2010-06-11": {
+    "temp_max": 15.3,
+    "temp_min": 5.8,
+    "temp_avg": 10.6,
+    "humidity": 53.5,
+    "precip_mm": 0.0,
+    "wind_kmh": 23.0,
+    "elevation_m": 1734.0
+  },
+  "-33.9288_18.4172_2010-06-11": {
+    "temp_max": 16.5,
+    "temp_min": 6.5,
+    "temp_avg": 11.5,
+    "humidity": 78.0,
+    "precip_mm": 0.0,
+    "wind_kmh": 8.9,
+    "elevation_m": 25.0
+  },
+  "-26.205_28.0497_2010-06-12": {
+    "temp_max": 16.6,
+    "temp_min": 2.4,
+    "temp_avg": 9.5,
+    "humidity": 56.6,
+    "precip_mm": 0.0,
+    "wind_kmh": 12.3,
+    "elevation_m": 1734.0
+  },
+  "-25.6657_27.2414_2010-06-12": {
+    "temp_max": 19.7,
+    "temp_min": 8.1,
+    "temp_avg": 13.9,
+    "humidity": 54.9,
+    "precip_mm": 0.0,
+    "wind_kmh": 10.7,
+    "elevation_m": 1159.0
+  },
+  "-33.9619_25.6187_2010-06-12": {
+    "temp_max": 19.1,
+    "temp_min": 10.4,
+    "temp_avg": 14.8,
+    "humidity": 62.2,
+    "precip_mm": 0.0,
+    "wind_kmh": 14.3,
+    "elevation_m": 58.0
+  },
+  "-23.9058_29.4614_2010-06-13": {
+    "temp_max": 21.8,
+    "temp_min": 7.2,
+    "temp_avg": 14.5,
+    "humidity": 47.9,
+    "precip_mm": 0.0,
+    "wind_kmh": 17.3,
+    "elevation_m": 1288.0
+  },
+  "-29.8618_31.0099_2010-06-13": {
+    "temp_max": 23.4,
+    "temp_min": 15.7,
+    "temp_avg": 19.5,
+    "humidity": 81.5,
+    "precip_mm": 0.0,
+    "wind_kmh": 11.4,
+    "elevation_m": 9.0
+  },
+  "-25.7459_28.1879_2010-06-13": {
+    "temp_max": 20.8,
+    "temp_min": 9.9,
+    "temp_avg": 15.4,
+    "humidity": 50.8,
+    "precip_mm": 0.0,
+    "wind_kmh": 22.7,
+    "elevation_m": 1325.0
+  },
+  "-33.9288_18.4172_2010-06-14": {
+    "temp_max": 11.9,
+    "temp_min": 8.8,
+    "temp_avg": 10.4,
+    "humidity": 72.1,
+    "precip_mm": 25.4,
+    "wind_kmh": 33.5,
+    "elevation_m": 25.0
+  },
+  "-29.1164_26.2155_2010-06-14": {
+    "temp_max": 15.2,
+    "temp_min": 0.3,
+    "temp_avg": 7.8,
+    "humidity": 40.1,
+    "precip_mm": 0.0,
+    "wind_kmh": 23.1,
+    "elevation_m": 1389.0
+  },
+  "-26.205_28.0497_2010-06-14": {
+    "temp_max": 17.7,
+    "temp_min": 1.4,
+    "temp_avg": 9.5,
+    "humidity": 37.8,
+    "precip_mm": 0.0,
+    "wind_kmh": 24.8,
+    "elevation_m": 1734.0
+  },
+  "-26.205_28.0497_2010-06-15": {
+    "temp_max": 9.9,
+    "temp_min": 0.6,
+    "temp_avg": 5.2,
+    "humidity": 33.5,
+    "precip_mm": 0.0,
+    "wind_kmh": 30.1,
+    "elevation_m": 1734.0
+  },
+  "-33.9619_25.6187_2010-06-15": {
+    "temp_max": 11.7,
+    "temp_min": 9.2,
+    "temp_avg": 10.4,
+    "humidity": 69.9,
+    "precip_mm": 4.7,
+    "wind_kmh": 27.2,
+    "elevation_m": 58.0
+  },
+  "-25.6657_27.2414_2010-06-15": {
+    "temp_max": 10.5,
+    "temp_min": 4.5,
+    "temp_avg": 7.5,
+    "humidity": 27.8,
+    "precip_mm": 0.0,
+    "wind_kmh": 27.5,
+    "elevation_m": 1159.0
+  },
+  "-25.4729_30.9773_2010-06-16": {
+    "temp_max": 15.4,
+    "temp_min": 2.7,
+    "temp_avg": 9.1,
+    "humidity": 37.1,
+    "precip_mm": 0.0,
+    "wind_kmh": 8.2,
+    "elevation_m": 696.0
+  },
+  "-25.7459_28.1879_2010-06-16": {
+    "temp_max": 13.1,
+    "temp_min": 0.2,
+    "temp_avg": 6.6,
+    "humidity": 19.2,
+    "precip_mm": 0.0,
+    "wind_kmh": 17.6,
+    "elevation_m": 1325.0
+  },
+  "-29.8618_31.0099_2010-06-16": {
+    "temp_max": 19.6,
+    "temp_min": 11.5,
+    "temp_avg": 15.6,
+    "humidity": 41.6,
+    "precip_mm": 0.0,
+    "wind_kmh": 19.9,
+    "elevation_m": 9.0
+  },
+  "-26.205_28.0497_2010-06-17": {
+    "temp_max": 10.6,
+    "temp_min": -4.2,
+    "temp_avg": 3.2,
+    "humidity": 25.2,
+    "precip_mm": 0.0,
+    "wind_kmh": 13.6,
+    "elevation_m": 1734.0
+  },
+  "-23.9058_29.4614_2010-06-17": {
+    "temp_max": 13.2,
+    "temp_min": 1.4,
+    "temp_avg": 7.3,
+    "humidity": 42.5,
+    "precip_mm": 0.0,
+    "wind_kmh": 10.5,
+    "elevation_m": 1288.0
+  },
+  "-29.1164_26.2155_2010-06-17": {
+    "temp_max": 10.6,
+    "temp_min": -1.4,
+    "temp_avg": 4.6,
+    "humidity": 43.4,
+    "precip_mm": 0.0,
+    "wind_kmh": 14.7,
+    "elevation_m": 1389.0
+  },
+  "-33.9288_18.4172_2010-06-18": {
+    "temp_max": 18.3,
+    "temp_min": 4.5,
+    "temp_avg": 11.4,
+    "humidity": 44.6,
+    "precip_mm": 0.0,
+    "wind_kmh": 20.5,
+    "elevation_m": 25.0
+  },
+  "-33.9619_25.6187_2010-06-18": {
+    "temp_max": 19.3,
+    "temp_min": 9.9,
+    "temp_avg": 14.6,
+    "humidity": 44.8,
+    "precip_mm": 0.0,
+    "wind_kmh": 21.3,
+    "elevation_m": 58.0
+  },
+  "-26.205_28.0497_2010-06-18": {
+    "temp_max": 11.9,
+    "temp_min": -2.3,
+    "temp_avg": 4.8,
+    "humidity": 28.5,
+    "precip_mm": 0.0,
+    "wind_kmh": 12.1,
+    "elevation_m": 1734.0
+  },
+  "-25.7459_28.1879_2010-06-19": {
+    "temp_max": 14.3,
+    "temp_min": 1.7,
+    "temp_avg": 8.0,
+    "humidity": 39.6,
+    "precip_mm": 0.0,
+    "wind_kmh": 10.9,
+    "elevation_m": 1325.0
+  },
+  "-25.6657_27.2414_2010-06-19": {
+    "temp_max": 14.2,
+    "temp_min": 3.0,
+    "temp_avg": 8.6,
+    "humidity": 39.9,
+    "precip_mm": 0.0,
+    "wind_kmh": 9.7,
+    "elevation_m": 1159.0
+  },
+  "-29.8618_31.0099_2010-06-19": {
+    "temp_max": 22.8,
+    "temp_min": 10.6,
+    "temp_avg": 16.7,
+    "humidity": 47.5,
+    "precip_mm": 0.0,
+    "wind_kmh": 15.5,
+    "elevation_m": 9.0
+  },
+  "-26.205_28.0497_2010-06-20": {
+    "temp_max": 15.3,
+    "temp_min": -3.2,
+    "temp_avg": 6.1,
+    "humidity": 27.1,
+    "precip_mm": 0.0,
+    "wind_kmh": 14.4,
+    "elevation_m": 1734.0
+  },
+  "-25.4729_30.9773_2010-06-20": {
+    "temp_max": 19.3,
+    "temp_min": 1.7,
+    "temp_avg": 10.5,
+    "humidity": 44.4,
+    "precip_mm": 0.0,
+    "wind_kmh": 9.5,
+    "elevation_m": 696.0
+  },
+  "-29.1164_26.2155_2010-06-20": {
+    "temp_max": 14.9,
+    "temp_min": -2.6,
+    "temp_avg": 6.2,
+    "humidity": 36.5,
+    "precip_mm": 0.0,
+    "wind_kmh": 8.6,
+    "elevation_m": 1389.0
+  },
+  "-33.9619_25.6187_2010-06-21": {
+    "temp_max": 21.3,
+    "temp_min": 12.7,
+    "temp_avg": 17.0,
+    "humidity": 76.5,
+    "precip_mm": 0.0,
+    "wind_kmh": 22.5,
+    "elevation_m": 58.0
+  },
+  "-33.9288_18.4172_2010-06-21": {
+    "temp_max": 14.4,
+    "temp_min": 8.9,
+    "temp_avg": 11.7,
+    "humidity": 86.1,
+    "precip_mm": 4.3,
+    "wind_kmh": 15.9,
+    "elevation_m": 25.0
+  },
+  "-26.205_28.0497_2010-06-21": {
+    "temp_max": 15.9,
+    "temp_min": -0.5,
+    "temp_avg": 7.7,
+    "humidity": 31.0,
+    "precip_mm": 0.0,
+    "wind_kmh": 11.2,
+    "elevation_m": 1734.0
+  },
+  "-23.9058_29.4614_2010-06-22": {
+    "temp_max": 18.1,
+    "temp_min": 3.4,
+    "temp_avg": 10.8,
+    "humidity": 36.6,
+    "precip_mm": 0.0,
+    "wind_kmh": 8.2,
+    "elevation_m": 1288.0
+  },
+  "-25.6657_27.2414_2010-06-22": {
+    "temp_max": 18.8,
+    "temp_min": 1.0,
+    "temp_avg": 9.9,
+    "humidity": 33.8,
+    "precip_mm": 0.0,
+    "wind_kmh": 11.1,
+    "elevation_m": 1159.0
+  },
+  "-29.8618_31.0099_2010-06-22": {
+    "temp_max": 21.5,
+    "temp_min": 12.2,
+    "temp_avg": 16.9,
+    "humidity": 83.5,
+    "precip_mm": 0.0,
+    "wind_kmh": 19.9,
+    "elevation_m": 9.0
+  },
+  "-29.1164_26.2155_2010-06-22": {
+    "temp_max": 16.3,
+    "temp_min": -0.6,
+    "temp_avg": 7.9,
+    "humidity": 35.6,
+    "precip_mm": 0.0,
+    "wind_kmh": 14.3,
+    "elevation_m": 1389.0
+  },
+  "-25.4729_30.9773_2010-06-23": {
+    "temp_max": 20.3,
+    "temp_min": 3.2,
+    "temp_avg": 11.8,
+    "humidity": 48.8,
+    "precip_mm": 0.0,
+    "wind_kmh": 8.1,
+    "elevation_m": 696.0
+  },
+  "-26.205_28.0497_2010-06-23": {
+    "temp_max": 15.1,
+    "temp_min": -0.7,
+    "temp_avg": 7.2,
+    "humidity": 26.0,
+    "precip_mm": 0.0,
+    "wind_kmh": 12.2,
+    "elevation_m": 1734.0
+  },
+  "-33.9619_25.6187_2010-06-23": {
+    "temp_max": 18.9,
+    "temp_min": 11.1,
+    "temp_avg": 15.0,
+    "humidity": 65.9,
+    "precip_mm": 0.0,
+    "wind_kmh": 14.0,
+    "elevation_m": 58.0
+  },
+  "-25.7459_28.1879_2010-06-23": {
+    "temp_max": 18.1,
+    "temp_min": 1.9,
+    "temp_avg": 10.0,
+    "humidity": 28.9,
+    "precip_mm": 0.0,
+    "wind_kmh": 10.8,
+    "elevation_m": 1325.0
+  },
+  "-33.9288_18.4172_2010-06-24": {
+    "temp_max": 17.2,
+    "temp_min": 9.8,
+    "temp_avg": 13.5,
+    "humidity": 78.9,
+    "precip_mm": 0.0,
+    "wind_kmh": 14.1,
+    "elevation_m": 25.0
+  },
+  "-25.6657_27.2414_2010-06-24": {
+    "temp_max": 19.0,
+    "temp_min": 2.3,
+    "temp_avg": 10.7,
+    "humidity": 30.1,
+    "precip_mm": 0.0,
+    "wind_kmh": 9.8,
+    "elevation_m": 1159.0
+  },
+  "-23.9058_29.4614_2010-06-24": {
+    "temp_max": 17.5,
+    "temp_min": 7.1,
+    "temp_avg": 12.3,
+    "humidity": 45.2,
+    "precip_mm": 0.0,
+    "wind_kmh": 9.3,
+    "elevation_m": 1288.0
+  },
+  "-26.205_28.0497_2010-06-24": {
+    "temp_max": 16.1,
+    "temp_min": 2.7,
+    "temp_avg": 9.4,
+    "humidity": 26.2,
+    "precip_mm": 0.0,
+    "wind_kmh": 9.4,
+    "elevation_m": 1734.0
+  },
+  "-25.7459_28.1879_2010-06-25": {
+    "temp_max": 22.0,
+    "temp_min": 2.4,
+    "temp_avg": 12.2,
+    "humidity": 15.1,
+    "precip_mm": 0.0,
+    "wind_kmh": 14.2,
+    "elevation_m": 1325.0
+  },
+  "-25.4729_30.9773_2010-06-25": {
+    "temp_max": 21.9,
+    "temp_min": 3.7,
+    "temp_avg": 12.8,
+    "humidity": 45.6,
+    "precip_mm": 0.0,
+    "wind_kmh": 9.6,
+    "elevation_m": 696.0
+  },
+  "-29.8618_31.0099_2010-06-25": {
+    "temp_max": 25.4,
+    "temp_min": 13.2,
+    "temp_avg": 19.3,
+    "humidity": 60.4,
+    "precip_mm": 0.0,
+    "wind_kmh": 11.5,
+    "elevation_m": 9.0
+  },
+  "-29.1164_26.2155_2010-06-25": {
+    "temp_max": 18.5,
+    "temp_min": -2.1,
+    "temp_avg": 8.2,
+    "humidity": 22.9,
+    "precip_mm": 0.0,
+    "wind_kmh": 8.2,
+    "elevation_m": 1389.0
+  },
+  "-33.9619_25.6187_2010-06-26": {
+    "temp_max": 18.2,
+    "temp_min": 13.5,
+    "temp_avg": 15.8,
+    "humidity": 76.4,
+    "precip_mm": 1.4,
+    "wind_kmh": 17.7,
+    "elevation_m": 58.0
+  },
+  "-25.6657_27.2414_2010-06-26": {
+    "temp_max": 23.2,
+    "temp_min": 1.9,
+    "temp_avg": 12.5,
+    "humidity": 23.5,
+    "precip_mm": 0.0,
+    "wind_kmh": 8.6,
+    "elevation_m": 1159.0
+  },
+  "-26.205_28.0497_2010-06-27": {
+    "temp_max": 18.8,
+    "temp_min": 1.5,
+    "temp_avg": 10.2,
+    "humidity": 34.1,
+    "precip_mm": 0.0,
+    "wind_kmh": 21.3,
+    "elevation_m": 1734.0
+  },
+  "-29.1164_26.2155_2010-06-27": {
+    "temp_max": 20.8,
+    "temp_min": 0.4,
+    "temp_avg": 10.6,
+    "humidity": 26.8,
+    "precip_mm": 0.0,
+    "wind_kmh": 24.6,
+    "elevation_m": 1389.0
+  },
+  "-26.205_28.0497_2010-06-28": {
+    "temp_max": 14.5,
+    "temp_min": 5.2,
+    "temp_avg": 9.8,
+    "humidity": 57.8,
+    "precip_mm": 0.0,
+    "wind_kmh": 19.2,
+    "elevation_m": 1734.0
+  },
+  "-29.8618_31.0099_2010-06-28": {
+    "temp_max": 21.4,
+    "temp_min": 16.3,
+    "temp_avg": 18.9,
+    "humidity": 73.0,
+    "precip_mm": 0.0,
+    "wind_kmh": 29.6,
+    "elevation_m": 9.0
+  },
+  "-25.7459_28.1879_2010-06-29": {
+    "temp_max": 16.2,
+    "temp_min": 8.0,
+    "temp_avg": 12.1,
+    "humidity": 59.9,
+    "precip_mm": 0.4,
+    "wind_kmh": 12.8,
+    "elevation_m": 1325.0
+  },
+  "-33.9288_18.4172_2010-06-29": {
+    "temp_max": 14.9,
+    "temp_min": 11.6,
+    "temp_avg": 13.2,
+    "humidity": 85.2,
+    "precip_mm": 11.1,
+    "wind_kmh": 36.9,
+    "elevation_m": 25.0
+  },
+  "-33.9619_25.6187_2010-07-02": {
+    "temp_max": 26.1,
+    "temp_min": 12.5,
+    "temp_avg": 19.3,
+    "humidity": 44.1,
+    "precip_mm": 0.0,
+    "wind_kmh": 18.7,
+    "elevation_m": 58.0
+  },
+  "-26.205_28.0497_2010-07-02": {
+    "temp_max": 12.4,
+    "temp_min": 5.6,
+    "temp_avg": 9.0,
+    "humidity": 72.5,
+    "precip_mm": 0.6,
+    "wind_kmh": 11.6,
+    "elevation_m": 1734.0
+  },
+  "-33.9288_18.4172_2010-07-03": {
+    "temp_max": 15.1,
+    "temp_min": 10.9,
+    "temp_avg": 13.0,
+    "humidity": 79.2,
+    "precip_mm": 0.0,
+    "wind_kmh": 15.6,
+    "elevation_m": 25.0
+  },
+  "-26.205_28.0497_2010-07-03": {
+    "temp_max": 15.9,
+    "temp_min": 3.6,
+    "temp_avg": 9.8,
+    "humidity": 44.5,
+    "precip_mm": 0.0,
+    "wind_kmh": 7.5,
+    "elevation_m": 1734.0
+  },
+  "-33.9288_18.4172_2010-07-06": {
+    "temp_max": 13.6,
+    "temp_min": 10.3,
+    "temp_avg": 11.9,
+    "humidity": 66.0,
+    "precip_mm": 1.3,
+    "wind_kmh": 26.4,
+    "elevation_m": 25.0
+  },
+  "-29.8618_31.0099_2010-07-07": {
+    "temp_max": 19.7,
+    "temp_min": 16.4,
+    "temp_avg": 18.0,
+    "humidity": 73.1,
+    "precip_mm": 0.1,
+    "wind_kmh": 34.8,
+    "elevation_m": 9.0
+  },
+  "-33.9619_25.6187_2010-07-10": {
+    "temp_max": 18.3,
+    "temp_min": 13.5,
+    "temp_avg": 15.9,
+    "humidity": 79.6,
+    "precip_mm": 0.9,
+    "wind_kmh": 22.0,
+    "elevation_m": 58.0
+  },
+  "-26.205_28.0497_2010-07-11": {
+    "temp_max": 16.8,
+    "temp_min": 4.0,
+    "temp_avg": 10.4,
+    "humidity": 38.4,
+    "precip_mm": 0.0,
+    "wind_kmh": 24.5,
+    "elevation_m": 1734.0
+  },
+  "-23.5507_-46.6334_2014-06-12": {
+    "temp_max": 24.1,
+    "temp_min": 13.4,
+    "temp_avg": 18.8,
+    "humidity": 73.0,
+    "precip_mm": 0.0,
+    "wind_kmh": 11.7,
+    "elevation_m": 768.0
+  },
+  "-15.5987_-56.0991_2014-06-13": {
+    "temp_max": 32.0,
+    "temp_min": 23.2,
+    "temp_avg": 27.6,
+    "humidity": 54.2,
+    "precip_mm": 0.0,
+    "wind_kmh": 13.0,
+    "elevation_m": 171.0
+  },
+  "-5.8054_-35.2081_2014-06-13": {
+    "temp_max": 26.1,
+    "temp_min": 23.7,
+    "temp_avg": 24.9,
+    "humidity": 88.0,
+    "precip_mm": 9.2,
+    "wind_kmh": 25.4,
+    "elevation_m": 28.0
+  },
+  "-12.9822_-38.4813_2014-06-13": {
+    "temp_max": 25.7,
+    "temp_min": 22.6,
+    "temp_avg": 24.1,
+    "humidity": 89.8,
+    "precip_mm": 9.1,
+    "wind_kmh": 22.9,
+    "elevation_m": 34.0
+  },
+  "-19.9227_-43.9451_2014-06-14": {
+    "temp_max": 22.3,
+    "temp_min": 15.7,
+    "temp_avg": 19.0,
+    "humidity": 60.9,
+    "precip_mm": 0.0,
+    "wind_kmh": 13.7,
+    "elevation_m": 857.0
+  },
+  "-3.1316_-59.9825_2014-06-14": {
+    "temp_max": 30.5,
+    "temp_min": 23.1,
+    "temp_avg": 26.8,
+    "humidity": 71.8,
+    "precip_mm": 0.0,
+    "wind_kmh": 12.8,
+    "elevation_m": 44.0
+  },
+  "-8.0585_-34.8848_2014-06-14": {
+    "temp_max": 26.3,
+    "temp_min": 23.0,
+    "temp_avg": 24.6,
+    "humidity": 89.0,
+    "precip_mm": 16.5,
+    "wind_kmh": 18.8,
+    "elevation_m": 9.0
+  },
+  "-3.7932_-38.528_2014-06-14": {
+    "temp_max": 30.1,
+    "temp_min": 25.0,
+    "temp_avg": 27.6,
+    "humidity": 73.1,
+    "precip_mm": 1.4,
+    "wind_kmh": 22.3,
+    "elevation_m": 7.0
+  },
+  "-22.911_-43.2094_2014-06-15": {
+    "temp_max": 25.0,
+    "temp_min": 18.7,
+    "temp_avg": 21.9,
+    "humidity": 87.0,
+    "precip_mm": 0.6,
+    "wind_kmh": 9.8,
+    "elevation_m": 6.0
+  },
+  "-30.0325_-51.2304_2014-06-15": {
+    "temp_max": 19.5,
+    "temp_min": 15.6,
+    "temp_avg": 17.6,
+    "humidity": 80.5,
+    "precip_mm": 1.3,
+    "wind_kmh": 21.7,
+    "elevation_m": 31.0
+  },
+  "-15.794_-47.8828_2014-06-15": {
+    "temp_max": 24.0,
+    "temp_min": 15.0,
+    "temp_avg": 19.5,
+    "humidity": 56.4,
+    "precip_mm": 0.0,
+    "wind_kmh": 20.2,
+    "elevation_m": 1092.0
+  },
+  "-12.9822_-38.4813_2014-06-16": {
+    "temp_max": 25.8,
+    "temp_min": 22.5,
+    "temp_avg": 24.1,
+    "humidity": 76.9,
+    "precip_mm": 7.2,
+    "wind_kmh": 21.7,
+    "elevation_m": 34.0
+  },
+  "-5.8054_-35.2081_2014-06-16": {
+    "temp_max": 26.4,
+    "temp_min": 23.6,
+    "temp_avg": 25.0,
+    "humidity": 81.2,
+    "precip_mm": 7.3,
+    "wind_kmh": 26.3,
+    "elevation_m": 28.0
+  },
+  "-25.4296_-49.2713_2014-06-16": {
+    "temp_max": 21.1,
+    "temp_min": 14.0,
+    "temp_avg": 17.6,
+    "humidity": 79.2,
+    "precip_mm": 0.1,
+    "wind_kmh": 11.9,
+    "elevation_m": 912.0
+  },
+  "-19.9227_-43.9451_2014-06-17": {
+    "temp_max": 25.3,
+    "temp_min": 12.4,
+    "temp_avg": 18.9,
+    "humidity": 50.9,
+    "precip_mm": 0.0,
+    "wind_kmh": 7.3,
+    "elevation_m": 857.0
+  },
+  "-3.7932_-38.528_2014-06-17": {
+    "temp_max": 27.7,
+    "temp_min": 23.5,
+    "temp_avg": 25.6,
+    "humidity": 79.8,
+    "precip_mm": 5.9,
+    "wind_kmh": 23.9,
+    "elevation_m": 7.0
+  },
+  "-15.5987_-56.0991_2014-06-17": {
+    "temp_max": 29.7,
+    "temp_min": 20.0,
+    "temp_avg": 24.9,
+    "humidity": 63.4,
+    "precip_mm": 0.0,
+    "wind_kmh": 8.4,
+    "elevation_m": 171.0
+  },
+  "-25.4296_-49.2713_2014-06-18": {
+    "temp_max": 17.5,
+    "temp_min": 10.7,
+    "temp_avg": 14.1,
+    "humidity": 93.0,
+    "precip_mm": 15.6,
+    "wind_kmh": 16.3,
+    "elevation_m": 912.0
+  },
+  "-22.911_-43.2094_2014-06-18": {
+    "temp_max": 25.4,
+    "temp_min": 19.4,
+    "temp_avg": 22.4,
+    "humidity": 81.0,
+    "precip_mm": 2.6,
+    "wind_kmh": 8.9,
+    "elevation_m": 6.0
+  },
+  "-15.794_-47.8828_2014-06-19": {
+    "temp_max": 25.8,
+    "temp_min": 18.8,
+    "temp_avg": 22.3,
+    "humidity": 46.1,
+    "precip_mm": 0.0,
+    "wind_kmh": 12.1,
+    "elevation_m": 1092.0
+  },
+  "-5.8054_-35.2081_2014-06-19": {
+    "temp_max": 26.6,
+    "temp_min": 23.6,
+    "temp_avg": 25.1,
+    "humidity": 85.1,
+    "precip_mm": 7.0,
+    "wind_kmh": 25.2,
+    "elevation_m": 28.0
+  },
+  "-23.5507_-46.6334_2014-06-19": {
+    "temp_max": 14.7,
+    "temp_min": 12.1,
+    "temp_avg": 13.4,
+    "humidity": 86.8,
+    "precip_mm": 0.1,
+    "wind_kmh": 19.0,
+    "elevation_m": 768.0
+  },
+  "-25.4296_-49.2713_2014-06-20": {
+    "temp_max": 13.5,
+    "temp_min": 9.2,
+    "temp_avg": 11.3,
+    "humidity": 76.6,
+    "precip_mm": 0.0,
+    "wind_kmh": 9.4,
+    "elevation_m": 912.0
+  },
+  "-8.0585_-34.8848_2014-06-20": {
+    "temp_max": 26.7,
+    "temp_min": 22.9,
+    "temp_avg": 24.8,
+    "humidity": 77.2,
+    "precip_mm": 1.6,
+    "wind_kmh": 21.7,
+    "elevation_m": 9.0
+  },
+  "-12.9822_-38.4813_2014-06-20": {
+    "temp_max": 25.8,
+    "temp_min": 23.5,
+    "temp_avg": 24.6,
+    "humidity": 68.5,
+    "precip_mm": 1.7,
+    "wind_kmh": 19.4,
+    "elevation_m": 34.0
+  },
+  "-19.9227_-43.9451_2014-06-21": {
+    "temp_max": 23.1,
+    "temp_min": 14.0,
+    "temp_avg": 18.6,
+    "humidity": 58.4,
+    "precip_mm": 0.2,
+    "wind_kmh": 10.0,
+    "elevation_m": 857.0
+  },
+  "-3.7932_-38.528_2014-06-21": {
+    "temp_max": 28.9,
+    "temp_min": 24.4,
+    "temp_avg": 26.6,
+    "humidity": 71.6,
+    "precip_mm": 3.0,
+    "wind_kmh": 22.0,
+    "elevation_m": 7.0
+  },
+  "-15.5987_-56.0991_2014-06-21": {
+    "temp_max": 31.3,
+    "temp_min": 20.1,
+    "temp_avg": 25.7,
+    "humidity": 58.4,
+    "precip_mm": 0.0,
+    "wind_kmh": 7.0,
+    "elevation_m": 171.0
+  },
+  "-22.911_-43.2094_2014-06-22": {
+    "temp_max": 23.3,
+    "temp_min": 18.2,
+    "temp_avg": 20.8,
+    "humidity": 80.5,
+    "precip_mm": 0.2,
+    "wind_kmh": 10.2,
+    "elevation_m": 6.0
+  },
+  "-30.0325_-51.2304_2014-06-22": {
+    "temp_max": 19.4,
+    "temp_min": 6.2,
+    "temp_avg": 12.8,
+    "humidity": 75.1,
+    "precip_mm": 0.6,
+    "wind_kmh": 8.4,
+    "elevation_m": 31.0
+  },
+  "-3.1316_-59.9825_2014-06-22": {
+    "temp_max": 28.9,
+    "temp_min": 23.9,
+    "temp_avg": 26.4,
+    "humidity": 85.9,
+    "precip_mm": 13.5,
+    "wind_kmh": 13.7,
+    "elevation_m": 44.0
+  },
+  "-25.4296_-49.2713_2014-06-23": {
+    "temp_max": 20.8,
+    "temp_min": 11.4,
+    "temp_avg": 16.1,
+    "humidity": 79.0,
+    "precip_mm": 0.1,
+    "wind_kmh": 12.8,
+    "elevation_m": 912.0
+  },
+  "-15.794_-47.8828_2014-06-23": {
+    "temp_max": 22.8,
+    "temp_min": 14.2,
+    "temp_avg": 18.5,
+    "humidity": 52.9,
+    "precip_mm": 0.0,
+    "wind_kmh": 20.7,
+    "elevation_m": 1092.0
+  },
+  "-8.0585_-34.8848_2014-06-23": {
+    "temp_max": 24.7,
+    "temp_min": 23.8,
+    "temp_avg": 24.2,
+    "humidity": 86.0,
+    "precip_mm": 15.4,
+    "wind_kmh": 16.6,
+    "elevation_m": 9.0
+  },
+  "-23.5507_-46.6334_2014-06-23": {
+    "temp_max": 24.3,
+    "temp_min": 12.7,
+    "temp_avg": 18.5,
+    "humidity": 64.4,
+    "precip_mm": 0.0,
+    "wind_kmh": 10.1,
+    "elevation_m": 768.0
+  },
+  "-19.9227_-43.9451_2014-06-24": {
+    "temp_max": 23.7,
+    "temp_min": 11.0,
+    "temp_avg": 17.4,
+    "humidity": 50.2,
+    "precip_mm": 0.0,
+    "wind_kmh": 6.9,
+    "elevation_m": 857.0
+  },
+  "-3.7932_-38.528_2014-06-24": {
+    "temp_max": 28.8,
+    "temp_min": 23.8,
+    "temp_avg": 26.3,
+    "humidity": 75.6,
+    "precip_mm": 0.7,
+    "wind_kmh": 26.2,
+    "elevation_m": 7.0
+  },
+  "-5.8054_-35.2081_2014-06-24": {
+    "temp_max": 27.0,
+    "temp_min": 23.3,
+    "temp_avg": 25.1,
+    "humidity": 81.1,
+    "precip_mm": 4.6,
+    "wind_kmh": 27.7,
+    "elevation_m": 28.0
+  },
+  "-15.5987_-56.0991_2014-06-24": {
+    "temp_max": 31.4,
+    "temp_min": 20.8,
+    "temp_avg": 26.1,
+    "humidity": 49.4,
+    "precip_mm": 0.0,
+    "wind_kmh": 13.0,
+    "elevation_m": 171.0
+  },
+  "-12.9822_-38.4813_2014-06-25": {
+    "temp_max": 24.1,
+    "temp_min": 22.7,
+    "temp_avg": 23.4,
+    "humidity": 79.6,
+    "precip_mm": 2.5,
+    "wind_kmh": 17.2,
+    "elevation_m": 34.0
+  },
+  "-22.911_-43.2094_2014-06-25": {
+    "temp_max": 27.4,
+    "temp_min": 16.1,
+    "temp_avg": 21.8,
+    "humidity": 70.6,
+    "precip_mm": 0.0,
+    "wind_kmh": 8.0,
+    "elevation_m": 6.0
+  },
+  "-3.1316_-59.9825_2014-06-25": {
+    "temp_max": 29.6,
+    "temp_min": 24.0,
+    "temp_avg": 26.8,
+    "humidity": 77.5,
+    "precip_mm": 0.6,
+    "wind_kmh": 10.3,
+    "elevation_m": 44.0
+  },
+  "-30.0325_-51.2304_2014-06-25": {
+    "temp_max": 19.6,
+    "temp_min": 15.8,
+    "temp_avg": 17.7,
+    "humidity": 93.1,
+    "precip_mm": 18.4,
+    "wind_kmh": 14.7,
+    "elevation_m": 31.0
+  },
+  "-25.4296_-49.2713_2014-06-26": {
+    "temp_max": 21.9,
+    "temp_min": 13.8,
+    "temp_avg": 17.9,
+    "humidity": 78.8,
+    "precip_mm": 0.0,
+    "wind_kmh": 14.5,
+    "elevation_m": 912.0
+  },
+  "-23.5507_-46.6334_2014-06-26": {
+    "temp_max": 25.7,
+    "temp_min": 13.3,
+    "temp_avg": 19.5,
+    "humidity": 52.2,
+    "precip_mm": 0.0,
+    "wind_kmh": 13.8,
+    "elevation_m": 768.0
+  },
+  "-15.794_-47.8828_2014-06-26": {
+    "temp_max": 25.5,
+    "temp_min": 13.2,
+    "temp_avg": 19.4,
+    "humidity": 42.2,
+    "precip_mm": 0.0,
+    "wind_kmh": 15.3,
+    "elevation_m": 1092.0
+  },
+  "-8.0585_-34.8848_2014-06-26": {
+    "temp_max": 26.4,
+    "temp_min": 22.7,
+    "temp_avg": 24.5,
+    "humidity": 92.9,
+    "precip_mm": 11.8,
+    "wind_kmh": 11.9,
+    "elevation_m": 9.0
+  },
+  "-19.9227_-43.9451_2014-06-28": {
+    "temp_max": 25.0,
+    "temp_min": 12.2,
+    "temp_avg": 18.6,
+    "humidity": 53.0,
+    "precip_mm": 0.0,
+    "wind_kmh": 8.1,
+    "elevation_m": 857.0
+  },
+  "-22.911_-43.2094_2014-06-28": {
+    "temp_max": 28.8,
+    "temp_min": 17.9,
+    "temp_avg": 23.4,
+    "humidity": 71.4,
+    "precip_mm": 0.0,
+    "wind_kmh": 7.3,
+    "elevation_m": 6.0
+  },
+  "-8.0585_-34.8848_2014-06-29": {
+    "temp_max": 27.3,
+    "temp_min": 22.3,
+    "temp_avg": 24.8,
+    "humidity": 80.5,
+    "precip_mm": 3.3,
+    "wind_kmh": 18.0,
+    "elevation_m": 9.0
+  },
+  "-3.7932_-38.528_2014-06-29": {
+    "temp_max": 28.3,
+    "temp_min": 24.5,
+    "temp_avg": 26.4,
+    "humidity": 78.5,
+    "precip_mm": 0.3,
+    "wind_kmh": 22.4,
+    "elevation_m": 7.0
+  },
+  "-15.794_-47.8828_2014-06-30": {
+    "temp_max": 26.7,
+    "temp_min": 13.8,
+    "temp_avg": 20.2,
+    "humidity": 37.5,
+    "precip_mm": 0.0,
+    "wind_kmh": 7.3,
+    "elevation_m": 1092.0
+  },
+  "-30.0325_-51.2304_2014-06-30": {
+    "temp_max": 14.2,
+    "temp_min": 13.1,
+    "temp_avg": 13.6,
+    "humidity": 91.5,
+    "precip_mm": 25.2,
+    "wind_kmh": 27.6,
+    "elevation_m": 31.0
+  },
+  "-23.5507_-46.6334_2014-07-01": {
+    "temp_max": 21.7,
+    "temp_min": 8.4,
+    "temp_avg": 15.1,
+    "humidity": 41.0,
+    "precip_mm": 0.0,
+    "wind_kmh": 14.9,
+    "elevation_m": 768.0
+  },
+  "-12.9822_-38.4813_2014-07-01": {
+    "temp_max": 25.4,
+    "temp_min": 22.0,
+    "temp_avg": 23.7,
+    "humidity": 77.4,
+    "precip_mm": 0.1,
+    "wind_kmh": 11.8,
+    "elevation_m": 34.0
+  },
+  "-3.7932_-38.528_2014-07-04": {
+    "temp_max": 29.6,
+    "temp_min": 23.8,
+    "temp_avg": 26.7,
+    "humidity": 65.6,
+    "precip_mm": 0.0,
+    "wind_kmh": 21.2,
+    "elevation_m": 7.0
+  },
+  "-22.911_-43.2094_2014-07-04": {
+    "temp_max": 29.1,
+    "temp_min": 19.3,
+    "temp_avg": 24.2,
+    "humidity": 73.1,
+    "precip_mm": 0.0,
+    "wind_kmh": 6.8,
+    "elevation_m": 6.0
+  },
+  "-15.794_-47.8828_2014-07-05": {
+    "temp_max": 24.8,
+    "temp_min": 14.5,
+    "temp_avg": 19.6,
+    "humidity": 36.5,
+    "precip_mm": 0.0,
+    "wind_kmh": 18.9,
+    "elevation_m": 1092.0
+  },
+  "-12.9822_-38.4813_2014-07-05": {
+    "temp_max": 25.0,
+    "temp_min": 22.2,
+    "temp_avg": 23.6,
+    "humidity": 81.1,
+    "precip_mm": 6.9,
+    "wind_kmh": 18.9,
+    "elevation_m": 34.0
+  },
+  "-19.9227_-43.9451_2014-07-08": {
+    "temp_max": 23.6,
+    "temp_min": 13.8,
+    "temp_avg": 18.7,
+    "humidity": 60.0,
+    "precip_mm": 0.1,
+    "wind_kmh": 11.4,
+    "elevation_m": 857.0
+  },
+  "-23.5507_-46.6334_2014-07-09": {
+    "temp_max": 17.8,
+    "temp_min": 14.2,
+    "temp_avg": 16.0,
+    "humidity": 90.1,
+    "precip_mm": 3.5,
+    "wind_kmh": 17.8,
+    "elevation_m": 768.0
+  },
+  "-15.794_-47.8828_2014-07-12": {
+    "temp_max": 26.1,
+    "temp_min": 15.1,
+    "temp_avg": 20.6,
+    "humidity": 40.4,
+    "precip_mm": 0.0,
+    "wind_kmh": 15.2,
+    "elevation_m": 1092.0
+  },
+  "-22.911_-43.2094_2014-07-13": {
+    "temp_max": 22.5,
+    "temp_min": 16.9,
+    "temp_avg": 19.7,
+    "humidity": 69.4,
+    "precip_mm": 0.0,
+    "wind_kmh": 10.8,
+    "elevation_m": 6.0
+  },
+  "55.6256_37.6064_2018-06-14": {
+    "temp_max": 15.6,
+    "temp_min": 8.1,
+    "temp_avg": 11.8,
+    "humidity": 51.8,
+    "precip_mm": 0.0,
+    "wind_kmh": 12.5,
+    "elevation_m": 192.0
+  },
+  "56.8382_60.6008_2018-06-15": {
+    "temp_max": 13.1,
+    "temp_min": 7.8,
+    "temp_avg": 10.4,
+    "humidity": 49.9,
+    "precip_mm": 0.8,
+    "wind_kmh": 23.3,
+    "elevation_m": 252.0
+  },
+  "59.9607_30.1587_2018-06-15": {
+    "temp_max": 24.7,
+    "temp_min": 12.5,
+    "temp_avg": 18.6,
+    "humidity": 40.8,
+    "precip_mm": 0.1,
+    "wind_kmh": 20.0,
+    "elevation_m": 0.0
+  },
+  "43.5855_39.7231_2018-06-15": {
+    "temp_max": 29.7,
+    "temp_min": 21.0,
+    "temp_avg": 25.4,
+    "humidity": 64.6,
+    "precip_mm": 0.0,
+    "wind_kmh": 16.0,
+    "elevation_m": 5.0
+  },
+  "55.7946_49.1115_2018-06-16": {
+    "temp_max": 19.1,
+    "temp_min": 6.4,
+    "temp_avg": 12.8,
+    "humidity": 47.5,
+    "precip_mm": 0.0,
+    "wind_kmh": 20.1,
+    "elevation_m": 82.0
+  },
+  "55.6256_37.6064_2018-06-16": {
+    "temp_max": 21.9,
+    "temp_min": 7.9,
+    "temp_avg": 14.9,
+    "humidity": 41.5,
+    "precip_mm": 0.0,
+    "wind_kmh": 11.5,
+    "elevation_m": 192.0
+  },
+  "54.1867_45.1838_2018-06-16": {
+    "temp_max": 20.3,
+    "temp_min": 6.1,
+    "temp_avg": 13.2,
+    "humidity": 42.1,
+    "precip_mm": 0.0,
+    "wind_kmh": 16.6,
+    "elevation_m": 150.0
+  },
+  "54.7101_20.5106_2018-06-16": {
+    "temp_max": 22.5,
+    "temp_min": 12.4,
+    "temp_avg": 17.4,
+    "humidity": 57.1,
+    "precip_mm": 0.3,
+    "wind_kmh": 12.1,
+    "elevation_m": 14.0
+  },
+  "53.1956_50.1015_2018-06-17": {
+    "temp_max": 23.8,
+    "temp_min": 10.9,
+    "temp_avg": 17.4,
+    "humidity": 35.9,
+    "precip_mm": 0.0,
+    "wind_kmh": 21.4,
+    "elevation_m": 75.0
+  },
+  "55.6256_37.6064_2018-06-17": {
+    "temp_max": 24.6,
+    "temp_min": 11.6,
+    "temp_avg": 18.1,
+    "humidity": 47.2,
+    "precip_mm": 0.0,
+    "wind_kmh": 13.6,
+    "elevation_m": 192.0
+  },
+  "47.261_39.7249_2018-06-17": {
+    "temp_max": 27.6,
+    "temp_min": 20.0,
+    "temp_avg": 23.8,
+    "humidity": 22.8,
+    "precip_mm": 0.0,
+    "wind_kmh": 23.8,
+    "elevation_m": 74.0
+  },
+  "56.3265_44.0051_2018-06-18": {
+    "temp_max": 26.2,
+    "temp_min": 13.4,
+    "temp_avg": 19.8,
+    "humidity": 50.5,
+    "precip_mm": 0.0,
+    "wind_kmh": 14.5,
+    "elevation_m": 142.0
+  },
+  "43.5855_39.7231_2018-06-18": {
+    "temp_max": 24.8,
+    "temp_min": 19.8,
+    "temp_avg": 22.3,
+    "humidity": 82.0,
+    "precip_mm": 9.2,
+    "wind_kmh": 11.0,
+    "elevation_m": 5.0
+  },
+  "48.7082_44.5153_2018-06-18": {
+    "temp_max": 28.4,
+    "temp_min": 14.7,
+    "temp_avg": 21.5,
+    "humidity": 21.6,
+    "precip_mm": 0.0,
+    "wind_kmh": 14.5,
+    "elevation_m": 36.0
+  },
+  "54.1867_45.1838_2018-06-19": {
+    "temp_max": 26.7,
+    "temp_min": 10.9,
+    "temp_avg": 18.8,
+    "humidity": 44.1,
+    "precip_mm": 0.1,
+    "wind_kmh": 15.0,
+    "elevation_m": 150.0
+  },
+  "55.6256_37.6064_2018-06-19": {
+    "temp_max": 26.1,
+    "temp_min": 16.8,
+    "temp_avg": 21.5,
+    "humidity": 47.0,
+    "precip_mm": 0.4,
+    "wind_kmh": 18.0,
+    "elevation_m": 192.0
+  },
+  "59.9607_30.1587_2018-06-19": {
+    "temp_max": 21.3,
+    "temp_min": 13.2,
+    "temp_avg": 17.2,
+    "humidity": 72.8,
+    "precip_mm": 6.8,
+    "wind_kmh": 31.2,
+    "elevation_m": 0.0
+  },
+  "55.6256_37.6064_2018-06-20": {
+    "temp_max": 22.1,
+    "temp_min": 16.2,
+    "temp_avg": 19.1,
+    "humidity": 33.2,
+    "precip_mm": 0.0,
+    "wind_kmh": 32.5,
+    "elevation_m": 192.0
+  },
+  "47.261_39.7249_2018-06-20": {
+    "temp_max": 32.3,
+    "temp_min": 19.1,
+    "temp_avg": 25.7,
+    "humidity": 30.9,
+    "precip_mm": 0.0,
+    "wind_kmh": 13.3,
+    "elevation_m": 74.0
+  },
+  "55.7946_49.1115_2018-06-20": {
+    "temp_max": 23.5,
+    "temp_min": 16.1,
+    "temp_avg": 19.8,
+    "humidity": 53.4,
+    "precip_mm": 5.8,
+    "wind_kmh": 33.1,
+    "elevation_m": 82.0
+  },
+  "53.1956_50.1015_2018-06-21": {
+    "temp_max": 24.0,
+    "temp_min": 13.9,
+    "temp_avg": 18.9,
+    "humidity": 33.6,
+    "precip_mm": 0.0,
+    "wind_kmh": 25.8,
+    "elevation_m": 75.0
+  },
+  "56.8382_60.6008_2018-06-21": {
+    "temp_max": 18.4,
+    "temp_min": 10.6,
+    "temp_avg": 14.5,
+    "humidity": 76.0,
+    "precip_mm": 10.9,
+    "wind_kmh": 26.7,
+    "elevation_m": 252.0
+  },
+  "56.3265_44.0051_2018-06-21": {
+    "temp_max": 21.2,
+    "temp_min": 12.9,
+    "temp_avg": 17.1,
+    "humidity": 43.2,
+    "precip_mm": 0.1,
+    "wind_kmh": 32.1,
+    "elevation_m": 142.0
+  },
+  "59.9607_30.1587_2018-06-22": {
+    "temp_max": 18.8,
+    "temp_min": 13.2,
+    "temp_avg": 16.0,
+    "humidity": 51.0,
+    "precip_mm": 2.7,
+    "wind_kmh": 31.5,
+    "elevation_m": 0.0
+  },
+  "48.7082_44.5153_2018-06-22": {
+    "temp_max": 31.2,
+    "temp_min": 19.0,
+    "temp_avg": 25.1,
+    "humidity": 24.4,
+    "precip_mm": 0.0,
+    "wind_kmh": 10.6,
+    "elevation_m": 36.0
+  },
+  "54.7101_20.5106_2018-06-22": {
+    "temp_max": 16.0,
+    "temp_min": 12.2,
+    "temp_avg": 14.1,
+    "humidity": 67.6,
+    "precip_mm": 3.0,
+    "wind_kmh": 32.1,
+    "elevation_m": 14.0
+  },
+  "55.6256_37.6064_2018-06-23": {
+    "temp_max": 29.2,
+    "temp_min": 16.7,
+    "temp_avg": 22.9,
+    "humidity": 43.6,
+    "precip_mm": 0.0,
+    "wind_kmh": 18.8,
+    "elevation_m": 192.0
+  },
+  "47.261_39.7249_2018-06-23": {
+    "temp_max": 34.5,
+    "temp_min": 22.4,
+    "temp_avg": 28.4,
+    "humidity": 37.0,
+    "precip_mm": 0.0,
+    "wind_kmh": 18.5,
+    "elevation_m": 74.0
+  },
+  "43.5855_39.7231_2018-06-23": {
+    "temp_max": 23.8,
+    "temp_min": 20.9,
+    "temp_avg": 22.4,
+    "humidity": 88.8,
+    "precip_mm": 18.8,
+    "wind_kmh": 17.9,
+    "elevation_m": 5.0
+  },
+  "56.3265_44.0051_2018-06-24": {
+    "temp_max": 31.0,
+    "temp_min": 18.0,
+    "temp_avg": 24.5,
+    "humidity": 46.5,
+    "precip_mm": 0.0,
+    "wind_kmh": 18.2,
+    "elevation_m": 142.0
+  },
+  "56.8382_60.6008_2018-06-24": {
+    "temp_max": 24.4,
+    "temp_min": 14.3,
+    "temp_avg": 19.4,
+    "humidity": 40.9,
+    "precip_mm": 1.0,
+    "wind_kmh": 20.9,
+    "elevation_m": 252.0
+  },
+  "55.7946_49.1115_2018-06-24": {
+    "temp_max": 30.1,
+    "temp_min": 18.2,
+    "temp_avg": 24.1,
+    "humidity": 45.0,
+    "precip_mm": 0.0,
+    "wind_kmh": 8.4,
+    "elevation_m": 82.0
+  },
+  "53.1956_50.1015_2018-06-25": {
+    "temp_max": 33.0,
+    "temp_min": 18.5,
+    "temp_avg": 25.8,
+    "humidity": 41.1,
+    "precip_mm": 0.0,
+    "wind_kmh": 10.2,
+    "elevation_m": 75.0
+  },
+  "48.7082_44.5153_2018-06-25": {
+    "temp_max": 34.6,
+    "temp_min": 21.4,
+    "temp_avg": 28.0,
+    "humidity": 24.2,
+    "precip_mm": 0.0,
+    "wind_kmh": 21.3,
+    "elevation_m": 36.0
+  },
+  "54.7101_20.5106_2018-06-25": {
+    "temp_max": 15.6,
+    "temp_min": 11.9,
+    "temp_avg": 13.8,
+    "humidity": 80.5,
+    "precip_mm": 8.9,
+    "wind_kmh": 14.1,
+    "elevation_m": 14.0
+  },
+  "54.1867_45.1838_2018-06-25": {
+    "temp_max": 30.5,
+    "temp_min": 19.4,
+    "temp_avg": 24.9,
+    "humidity": 48.1,
+    "precip_mm": 0.0,
+    "wind_kmh": 12.8,
+    "elevation_m": 150.0
+  },
+  "43.5855_39.7231_2018-06-26": {
+    "temp_max": 26.3,
+    "temp_min": 22.5,
+    "temp_avg": 24.4,
+    "humidity": 89.0,
+    "precip_mm": 0.7,
+    "wind_kmh": 12.4,
+    "elevation_m": 5.0
+  },
+  "55.6256_37.6064_2018-06-26": {
+    "temp_max": 23.8,
+    "temp_min": 14.4,
+    "temp_avg": 19.1,
+    "humidity": 43.9,
+    "precip_mm": 0.0,
+    "wind_kmh": 12.4,
+    "elevation_m": 192.0
+  },
+  "59.9607_30.1587_2018-06-26": {
+    "temp_max": 20.9,
+    "temp_min": 12.3,
+    "temp_avg": 16.6,
+    "humidity": 55.4,
+    "precip_mm": 0.0,
+    "wind_kmh": 17.7,
+    "elevation_m": 0.0
+  },
+  "47.261_39.7249_2018-06-26": {
+    "temp_max": 34.5,
+    "temp_min": 22.2,
+    "temp_avg": 28.4,
+    "humidity": 34.9,
+    "precip_mm": 0.0,
+    "wind_kmh": 25.2,
+    "elevation_m": 74.0
+  },
+  "55.7946_49.1115_2018-06-27": {
+    "temp_max": 28.7,
+    "temp_min": 20.5,
+    "temp_avg": 24.6,
+    "humidity": 46.6,
+    "precip_mm": 0.0,
+    "wind_kmh": 20.7,
+    "elevation_m": 82.0
+  },
+  "56.8382_60.6008_2018-06-27": {
+    "temp_max": 29.2,
+    "temp_min": 15.4,
+    "temp_avg": 22.3,
+    "humidity": 31.2,
+    "precip_mm": 0.0,
+    "wind_kmh": 18.5,
+    "elevation_m": 252.0
+  },
+  "55.6256_37.6064_2018-06-27": {
+    "temp_max": 25.0,
+    "temp_min": 14.3,
+    "temp_avg": 19.6,
+    "humidity": 43.9,
+    "precip_mm": 0.0,
+    "wind_kmh": 15.1,
+    "elevation_m": 192.0
+  },
+  "56.3265_44.0051_2018-06-27": {
+    "temp_max": 25.9,
+    "temp_min": 15.4,
+    "temp_avg": 20.6,
+    "humidity": 43.2,
+    "precip_mm": 0.0,
+    "wind_kmh": 17.2,
+    "elevation_m": 142.0
+  },
+  "48.7082_44.5153_2018-06-28": {
+    "temp_max": 36.8,
+    "temp_min": 25.2,
+    "temp_avg": 31.0,
+    "humidity": 27.5,
+    "precip_mm": 0.0,
+    "wind_kmh": 21.4,
+    "elevation_m": 36.0
+  },
+  "53.1956_50.1015_2018-06-28": {
+    "temp_max": 28.9,
+    "temp_min": 19.8,
+    "temp_avg": 24.4,
+    "humidity": 35.6,
+    "precip_mm": 0.0,
+    "wind_kmh": 19.9,
+    "elevation_m": 75.0
+  },
+  "54.1867_45.1838_2018-06-28": {
+    "temp_max": 26.6,
+    "temp_min": 15.8,
+    "temp_avg": 21.2,
+    "humidity": 38.9,
+    "precip_mm": 0.0,
+    "wind_kmh": 16.8,
+    "elevation_m": 150.0
+  },
+  "54.7101_20.5106_2018-06-28": {
+    "temp_max": 26.5,
+    "temp_min": 16.5,
+    "temp_avg": 21.5,
+    "humidity": 48.4,
+    "precip_mm": 0.0,
+    "wind_kmh": 20.6,
+    "elevation_m": 14.0
+  },
+  "55.7946_49.1115_2018-06-30": {
+    "temp_max": 28.0,
+    "temp_min": 16.2,
+    "temp_avg": 22.1,
+    "humidity": 40.8,
+    "precip_mm": 0.0,
+    "wind_kmh": 14.5,
+    "elevation_m": 82.0
+  },
+  "43.5855_39.7231_2018-06-30": {
+    "temp_max": 28.4,
+    "temp_min": 23.7,
+    "temp_avg": 26.0,
+    "humidity": 80.9,
+    "precip_mm": 4.2,
+    "wind_kmh": 12.6,
+    "elevation_m": 5.0
+  },
+  "55.6256_37.6064_2018-07-01": {
+    "temp_max": 24.4,
+    "temp_min": 18.2,
+    "temp_avg": 21.3,
+    "humidity": 77.8,
+    "precip_mm": 15.7,
+    "wind_kmh": 22.6,
+    "elevation_m": 192.0
+  },
+  "56.3265_44.0051_2018-07-01": {
+    "temp_max": 30.9,
+    "temp_min": 22.0,
+    "temp_avg": 26.4,
+    "humidity": 47.8,
+    "precip_mm": 0.2,
+    "wind_kmh": 20.3,
+    "elevation_m": 142.0
+  },
+  "53.1956_50.1015_2018-07-02": {
+    "temp_max": 34.1,
+    "temp_min": 21.1,
+    "temp_avg": 27.6,
+    "humidity": 35.5,
+    "precip_mm": 0.0,
+    "wind_kmh": 13.1,
+    "elevation_m": 75.0
+  },
+  "47.261_39.7249_2018-07-02": {
+    "temp_max": 28.5,
+    "temp_min": 18.4,
+    "temp_avg": 23.4,
+    "humidity": 37.4,
+    "precip_mm": 0.0,
+    "wind_kmh": 14.0,
+    "elevation_m": 74.0
+  },
+  "59.9607_30.1587_2018-07-03": {
+    "temp_max": 19.7,
+    "temp_min": 11.0,
+    "temp_avg": 15.3,
+    "humidity": 68.8,
+    "precip_mm": 4.1,
+    "wind_kmh": 18.0,
+    "elevation_m": 0.0
+  },
+  "55.6256_37.6064_2018-07-03": {
+    "temp_max": 19.1,
+    "temp_min": 11.8,
+    "temp_avg": 15.5,
+    "humidity": 60.1,
+    "precip_mm": 0.0,
+    "wind_kmh": 22.6,
+    "elevation_m": 192.0
+  },
+  "56.3265_44.0051_2018-07-06": {
+    "temp_max": 24.0,
+    "temp_min": 13.9,
+    "temp_avg": 18.9,
+    "humidity": 73.5,
+    "precip_mm": 1.7,
+    "wind_kmh": 20.6,
+    "elevation_m": 142.0
+  },
+  "55.7946_49.1115_2018-07-06": {
+    "temp_max": 25.0,
+    "temp_min": 15.9,
+    "temp_avg": 20.4,
+    "humidity": 46.2,
+    "precip_mm": 0.0,
+    "wind_kmh": 14.1,
+    "elevation_m": 82.0
+  },
+  "53.1956_50.1015_2018-07-07": {
+    "temp_max": 27.0,
+    "temp_min": 17.5,
+    "temp_avg": 22.2,
+    "humidity": 49.0,
+    "precip_mm": 0.2,
+    "wind_kmh": 7.9,
+    "elevation_m": 75.0
+  },
+  "43.5855_39.7231_2018-07-07": {
+    "temp_max": 26.3,
+    "temp_min": 19.6,
+    "temp_avg": 23.0,
+    "humidity": 81.4,
+    "precip_mm": 1.0,
+    "wind_kmh": 11.7,
+    "elevation_m": 5.0
+  },
+  "59.9607_30.1587_2018-07-10": {
+    "temp_max": 18.1,
+    "temp_min": 15.2,
+    "temp_avg": 16.6,
+    "humidity": 71.0,
+    "precip_mm": 1.9,
+    "wind_kmh": 16.4,
+    "elevation_m": 0.0
+  },
+  "55.6256_37.6064_2018-07-11": {
+    "temp_max": 23.1,
+    "temp_min": 15.4,
+    "temp_avg": 19.2,
+    "humidity": 78.9,
+    "precip_mm": 8.7,
+    "wind_kmh": 18.9,
+    "elevation_m": 192.0
+  },
+  "59.9607_30.1587_2018-07-14": {
+    "temp_max": 26.6,
+    "temp_min": 17.0,
+    "temp_avg": 21.8,
+    "humidity": 57.9,
+    "precip_mm": 0.4,
+    "wind_kmh": 13.0,
+    "elevation_m": 0.0
+  },
+  "55.6256_37.6064_2018-07-15": {
+    "temp_max": 27.5,
+    "temp_min": 17.5,
+    "temp_avg": 22.5,
+    "humidity": 56.6,
+    "precip_mm": 0.3,
+    "wind_kmh": 11.6,
+    "elevation_m": 192.0
+  },
+  "25.7568_51.327_2022-11-20": {
+    "temp_max": 27.9,
+    "temp_min": 22.1,
+    "temp_avg": 25.0,
+    "humidity": 62.0,
+    "precip_mm": 0.0,
+    "wind_kmh": 33.3,
+    "elevation_m": 23.0
+  },
+  "25.3109_51.5082_2022-11-21": {
+    "temp_max": 27.5,
+    "temp_min": 20.1,
+    "temp_avg": 23.8,
+    "humidity": 57.5,
+    "precip_mm": 0.0,
+    "wind_kmh": 28.0,
+    "elevation_m": 17.0
+  },
+  "25.082_51.1584_2022-11-21": {
+    "temp_max": 25.8,
+    "temp_min": 17.9,
+    "temp_avg": 21.9,
+    "humidity": 51.8,
+    "precip_mm": 0.0,
+    "wind_kmh": 28.7,
+    "elevation_m": 45.0
+  },
+  "25.4229_51.5197_2022-11-22": {
+    "temp_max": 27.4,
+    "temp_min": 18.0,
+    "temp_avg": 22.7,
+    "humidity": 52.0,
+    "precip_mm": 0.0,
+    "wind_kmh": 20.0,
+    "elevation_m": 7.0
+  },
+  "25.3109_51.5082_2022-11-22": {
+    "temp_max": 27.6,
+    "temp_min": 18.4,
+    "temp_avg": 23.0,
+    "humidity": 52.5,
+    "precip_mm": 0.0,
+    "wind_kmh": 20.3,
+    "elevation_m": 17.0
+  },
+  "25.082_51.1584_2022-11-22": {
+    "temp_max": 25.9,
+    "temp_min": 14.8,
+    "temp_avg": 20.4,
+    "humidity": 51.2,
+    "precip_mm": 0.0,
+    "wind_kmh": 15.9,
+    "elevation_m": 45.0
+  },
+  "25.0037_51.4103_2022-11-22": {
+    "temp_max": 27.1,
+    "temp_min": 14.9,
+    "temp_avg": 21.0,
+    "humidity": 49.2,
+    "precip_mm": 0.0,
+    "wind_kmh": 14.9,
+    "elevation_m": 14.0
+  },
+  "25.082_51.1584_2022-11-23": {
+    "temp_max": 26.8,
+    "temp_min": 13.6,
+    "temp_avg": 20.2,
+    "humidity": 34.8,
+    "precip_mm": 0.0,
+    "wind_kmh": 10.9,
+    "elevation_m": 45.0
+  },
+  "25.3109_51.5082_2022-11-23": {
+    "temp_max": 27.5,
+    "temp_min": 16.5,
+    "temp_avg": 22.0,
+    "humidity": 46.1,
+    "precip_mm": 0.0,
+    "wind_kmh": 15.1,
+    "elevation_m": 17.0
+  },
+  "25.7568_51.327_2022-11-23": {
+    "temp_max": 28.0,
+    "temp_min": 14.1,
+    "temp_avg": 21.1,
+    "humidity": 40.1,
+    "precip_mm": 0.0,
+    "wind_kmh": 9.5,
+    "elevation_m": 23.0
+  },
+  "25.0037_51.4103_2022-11-24": {
+    "temp_max": 28.7,
+    "temp_min": 14.8,
+    "temp_avg": 21.8,
+    "humidity": 22.4,
+    "precip_mm": 0.0,
+    "wind_kmh": 9.7,
+    "elevation_m": 14.0
+  },
+  "25.4229_51.5197_2022-11-24": {
+    "temp_max": 28.1,
+    "temp_min": 15.4,
+    "temp_avg": 21.8,
+    "humidity": 34.9,
+    "precip_mm": 0.0,
+    "wind_kmh": 11.6,
+    "elevation_m": 7.0
+  },
+  "25.082_51.1584_2022-11-24": {
+    "temp_max": 27.9,
+    "temp_min": 17.5,
+    "temp_avg": 22.7,
+    "humidity": 26.2,
+    "precip_mm": 0.0,
+    "wind_kmh": 10.5,
+    "elevation_m": 45.0
+  },
+  "25.3109_51.5082_2022-11-24": {
+    "temp_max": 28.5,
+    "temp_min": 16.5,
+    "temp_avg": 22.5,
+    "humidity": 30.4,
+    "precip_mm": 0.0,
+    "wind_kmh": 14.0,
+    "elevation_m": 17.0
+  },
+  "25.3109_51.5082_2022-11-25": {
+    "temp_max": 29.1,
+    "temp_min": 18.3,
+    "temp_avg": 23.7,
+    "humidity": 48.2,
+    "precip_mm": 0.0,
+    "wind_kmh": 16.3,
+    "elevation_m": 17.0
+  },
+  "25.082_51.1584_2022-11-25": {
+    "temp_max": 31.1,
+    "temp_min": 16.8,
+    "temp_avg": 24.0,
+    "humidity": 38.8,
+    "precip_mm": 0.0,
+    "wind_kmh": 14.5,
+    "elevation_m": 45.0
+  },
+  "25.7568_51.327_2022-11-25": {
+    "temp_max": 30.5,
+    "temp_min": 16.1,
+    "temp_avg": 23.3,
+    "humidity": 46.9,
+    "precip_mm": 0.0,
+    "wind_kmh": 16.9,
+    "elevation_m": 23.0
+  },
+  "25.082_51.1584_2022-11-26": {
+    "temp_max": 31.0,
+    "temp_min": 17.9,
+    "temp_avg": 24.4,
+    "humidity": 31.9,
+    "precip_mm": 0.0,
+    "wind_kmh": 12.5,
+    "elevation_m": 45.0
+  },
+  "25.4229_51.5197_2022-11-26": {
+    "temp_max": 30.6,
+    "temp_min": 18.5,
+    "temp_avg": 24.6,
+    "humidity": 60.6,
+    "precip_mm": 0.0,
+    "wind_kmh": 13.7,
+    "elevation_m": 7.0
+  },
+  "25.0037_51.4103_2022-11-26": {
+    "temp_max": 31.1,
+    "temp_min": 19.0,
+    "temp_avg": 25.1,
+    "humidity": 46.9,
+    "precip_mm": 0.0,
+    "wind_kmh": 11.6,
+    "elevation_m": 14.0
+  },
+  "25.3109_51.5082_2022-11-26": {
+    "temp_max": 30.9,
+    "temp_min": 18.8,
+    "temp_avg": 24.9,
+    "humidity": 54.8,
+    "precip_mm": 0.0,
+    "wind_kmh": 14.1,
+    "elevation_m": 17.0
+  },
+  "25.082_51.1584_2022-11-27": {
+    "temp_max": 30.8,
+    "temp_min": 17.1,
+    "temp_avg": 24.0,
+    "humidity": 37.1,
+    "precip_mm": 0.0,
+    "wind_kmh": 21.4,
+    "elevation_m": 45.0
+  },
+  "25.7568_51.327_2022-11-27": {
+    "temp_max": 31.1,
+    "temp_min": 17.8,
+    "temp_avg": 24.5,
+    "humidity": 47.5,
+    "precip_mm": 0.0,
+    "wind_kmh": 22.1,
+    "elevation_m": 23.0
+  },
+  "25.3109_51.5082_2022-11-27": {
+    "temp_max": 32.0,
+    "temp_min": 18.8,
+    "temp_avg": 25.4,
+    "humidity": 32.4,
+    "precip_mm": 0.0,
+    "wind_kmh": 21.0,
+    "elevation_m": 17.0
+  },
+  "25.0037_51.4103_2022-11-28": {
+    "temp_max": 30.8,
+    "temp_min": 20.1,
+    "temp_avg": 25.5,
+    "humidity": 54.9,
+    "precip_mm": 0.0,
+    "wind_kmh": 28.9,
+    "elevation_m": 14.0
+  },
+  "25.3109_51.5082_2022-11-28": {
+    "temp_max": 31.6,
+    "temp_min": 21.5,
+    "temp_avg": 26.6,
+    "humidity": 53.6,
+    "precip_mm": 0.0,
+    "wind_kmh": 29.1,
+    "elevation_m": 17.0
+  },
+  "25.082_51.1584_2022-11-28": {
+    "temp_max": 29.0,
+    "temp_min": 20.4,
+    "temp_avg": 24.7,
+    "humidity": 61.4,
+    "precip_mm": 0.0,
+    "wind_kmh": 28.6,
+    "elevation_m": 45.0
+  },
+  "25.4229_51.5197_2022-11-28": {
+    "temp_max": 31.2,
+    "temp_min": 21.4,
+    "temp_avg": 26.3,
+    "humidity": 55.8,
+    "precip_mm": 0.0,
+    "wind_kmh": 29.2,
+    "elevation_m": 7.0
+  },
+  "25.082_51.1584_2022-11-29": {
+    "temp_max": 29.6,
+    "temp_min": 19.0,
+    "temp_avg": 24.3,
+    "humidity": 40.8,
+    "precip_mm": 0.0,
+    "wind_kmh": 15.9,
+    "elevation_m": 45.0
+  },
+  "25.7568_51.327_2022-11-29": {
+    "temp_max": 31.1,
+    "temp_min": 20.2,
+    "temp_avg": 25.6,
+    "humidity": 52.8,
+    "precip_mm": 0.0,
+    "wind_kmh": 15.8,
+    "elevation_m": 23.0
+  },
+  "25.3109_51.5082_2022-11-29": {
+    "temp_max": 29.0,
+    "temp_min": 20.2,
+    "temp_avg": 24.6,
+    "humidity": 59.5,
+    "precip_mm": 0.0,
+    "wind_kmh": 16.7,
+    "elevation_m": 17.0
+  },
+  "25.3109_51.5082_2022-11-30": {
+    "temp_max": 29.5,
+    "temp_min": 19.1,
+    "temp_avg": 24.3,
+    "humidity": 54.2,
+    "precip_mm": 0.0,
+    "wind_kmh": 17.2,
+    "elevation_m": 17.0
+  },
+  "25.4229_51.5197_2022-11-30": {
+    "temp_max": 29.0,
+    "temp_min": 18.5,
+    "temp_avg": 23.8,
+    "humidity": 54.0,
+    "precip_mm": 0.0,
+    "wind_kmh": 16.9,
+    "elevation_m": 7.0
+  },
+  "25.0037_51.4103_2022-11-30": {
+    "temp_max": 29.6,
+    "temp_min": 17.8,
+    "temp_avg": 23.7,
+    "humidity": 61.8,
+    "precip_mm": 0.0,
+    "wind_kmh": 12.8,
+    "elevation_m": 14.0
+  },
+  "25.082_51.1584_2022-11-30": {
+    "temp_max": 29.5,
+    "temp_min": 18.0,
+    "temp_avg": 23.8,
+    "humidity": 39.9,
+    "precip_mm": 0.0,
+    "wind_kmh": 10.8,
+    "elevation_m": 45.0
+  },
+  "25.082_51.1584_2022-12-01": {
+    "temp_max": 29.5,
+    "temp_min": 17.3,
+    "temp_avg": 23.4,
+    "humidity": 42.4,
+    "precip_mm": 0.0,
+    "wind_kmh": 12.0,
+    "elevation_m": 45.0
+  },
+  "25.7568_51.327_2022-12-01": {
+    "temp_max": 29.6,
+    "temp_min": 17.1,
+    "temp_avg": 23.4,
+    "humidity": 51.1,
+    "precip_mm": 0.0,
+    "wind_kmh": 18.1,
+    "elevation_m": 23.0
+  },
+  "25.3109_51.5082_2022-12-01": {
+    "temp_max": 29.5,
+    "temp_min": 18.5,
+    "temp_avg": 24.0,
+    "humidity": 45.9,
+    "precip_mm": 0.0,
+    "wind_kmh": 14.7,
+    "elevation_m": 17.0
+  },
+  "25.3109_51.5082_2022-12-02": {
+    "temp_max": 30.6,
+    "temp_min": 19.2,
+    "temp_avg": 24.9,
+    "humidity": 59.0,
+    "precip_mm": 0.0,
+    "wind_kmh": 21.1,
+    "elevation_m": 17.0
+  },
+  "25.4229_51.5197_2022-12-02": {
+    "temp_max": 30.5,
+    "temp_min": 19.1,
+    "temp_avg": 24.8,
+    "humidity": 56.9,
+    "precip_mm": 0.0,
+    "wind_kmh": 20.3,
+    "elevation_m": 7.0
+  },
+  "25.0037_51.4103_2022-12-02": {
+    "temp_max": 31.1,
+    "temp_min": 17.5,
+    "temp_avg": 24.3,
+    "humidity": 54.4,
+    "precip_mm": 0.0,
+    "wind_kmh": 18.5,
+    "elevation_m": 14.0
+  },
+  "25.082_51.1584_2022-12-02": {
+    "temp_max": 29.6,
+    "temp_min": 17.9,
+    "temp_avg": 23.8,
+    "humidity": 65.2,
+    "precip_mm": 0.0,
+    "wind_kmh": 20.4,
+    "elevation_m": 45.0
+  },
+  "25.082_51.1584_2022-12-03": {
+    "temp_max": 27.9,
+    "temp_min": 19.6,
+    "temp_avg": 23.8,
+    "humidity": 59.4,
+    "precip_mm": 0.0,
+    "wind_kmh": 20.9,
+    "elevation_m": 45.0
+  },
+  "25.3109_51.5082_2022-12-04": {
+    "temp_max": 29.0,
+    "temp_min": 19.3,
+    "temp_avg": 24.1,
+    "humidity": 55.4,
+    "precip_mm": 0.0,
+    "wind_kmh": 17.3,
+    "elevation_m": 17.0
+  },
+  "25.7568_51.327_2022-12-04": {
+    "temp_max": 29.4,
+    "temp_min": 19.2,
+    "temp_avg": 24.3,
+    "humidity": 54.6,
+    "precip_mm": 0.0,
+    "wind_kmh": 17.4,
+    "elevation_m": 23.0
+  },
+  "25.0037_51.4103_2022-12-05": {
+    "temp_max": 29.0,
+    "temp_min": 16.5,
+    "temp_avg": 22.8,
+    "humidity": 63.1,
+    "precip_mm": 0.0,
+    "wind_kmh": 15.5,
+    "elevation_m": 14.0
+  },
+  "25.3109_51.5082_2022-12-05": {
+    "temp_max": 28.0,
+    "temp_min": 18.2,
+    "temp_avg": 23.1,
+    "humidity": 62.5,
+    "precip_mm": 0.0,
+    "wind_kmh": 17.1,
+    "elevation_m": 17.0
+  },
+  "25.082_51.1584_2022-12-06": {
+    "temp_max": 30.2,
+    "temp_min": 19.2,
+    "temp_avg": 24.7,
+    "humidity": 49.8,
+    "precip_mm": 0.0,
+    "wind_kmh": 18.0,
+    "elevation_m": 45.0
+  },
+  "25.4229_51.5197_2022-12-06": {
+    "temp_max": 29.8,
+    "temp_min": 21.0,
+    "temp_avg": 25.4,
+    "humidity": 65.5,
+    "precip_mm": 0.0,
+    "wind_kmh": 21.2,
+    "elevation_m": 7.0
+  },
+  "25.082_51.1584_2022-12-09": {
+    "temp_max": 24.5,
+    "temp_min": 18.9,
+    "temp_avg": 21.7,
+    "humidity": 48.5,
+    "precip_mm": 0.0,
+    "wind_kmh": 25.5,
+    "elevation_m": 45.0
+  },
+  "25.4229_51.5197_2022-12-09": {
+    "temp_max": 24.8,
+    "temp_min": 19.8,
+    "temp_avg": 22.3,
+    "humidity": 45.2,
+    "precip_mm": 0.0,
+    "wind_kmh": 26.5,
+    "elevation_m": 7.0
+  },
+  "25.3109_51.5082_2022-12-10": {
+    "temp_max": 23.3,
+    "temp_min": 17.1,
+    "temp_avg": 20.2,
+    "humidity": 56.9,
+    "precip_mm": 0.0,
+    "wind_kmh": 31.4,
+    "elevation_m": 17.0
+  },
+  "25.7568_51.327_2022-12-10": {
+    "temp_max": 22.4,
+    "temp_min": 17.5,
+    "temp_avg": 19.9,
+    "humidity": 58.4,
+    "precip_mm": 0.5,
+    "wind_kmh": 32.9,
+    "elevation_m": 23.0
+  },
+  "25.4229_51.5197_2022-12-13": {
+    "temp_max": 24.0,
+    "temp_min": 14.0,
+    "temp_avg": 19.0,
+    "humidity": 54.4,
+    "precip_mm": 0.0,
+    "wind_kmh": 15.3,
+    "elevation_m": 7.0
+  },
+  "25.7568_51.327_2022-12-14": {
+    "temp_max": 25.7,
+    "temp_min": 13.9,
+    "temp_avg": 19.8,
+    "humidity": 57.0,
+    "precip_mm": 0.0,
+    "wind_kmh": 11.5,
+    "elevation_m": 23.0
+  },
+  "25.082_51.1584_2022-12-17": {
+    "temp_max": 25.4,
+    "temp_min": 16.6,
+    "temp_avg": 21.0,
+    "humidity": 62.1,
+    "precip_mm": 0.0,
+    "wind_kmh": 27.5,
+    "elevation_m": 45.0
+  },
+  "25.4229_51.5197_2022-12-18": {
+    "temp_max": 25.2,
+    "temp_min": 17.2,
+    "temp_avg": 21.2,
+    "humidity": 60.5,
+    "precip_mm": 0.0,
+    "wind_kmh": 26.8,
+    "elevation_m": 7.0
+  },
+  "19.3208_-99.1515_2026-06-11": {
+    "temp_max": 22.9,
+    "temp_min": 14.5,
+    "temp_avg": 18.7,
+    "humidity": 75.8,
+    "precip_mm": 10.3,
+    "wind_kmh": 13.3,
+    "elevation_m": 2265.0
+  },
+  "20.7211_-103.3914_2026-06-11": {
+    "temp_max": 27.0,
+    "temp_min": 18.0,
+    "temp_avg": 22.5,
+    "humidity": 56.9,
+    "precip_mm": 2.3,
+    "wind_kmh": 11.0,
+    "elevation_m": 1577.0
+  },
+  "43.6535_-79.3839_2026-06-12": {
+    "temp_max": 26.9,
+    "temp_min": 20.9,
+    "temp_avg": 23.9,
+    "humidity": 42.8,
+    "precip_mm": 0.0,
+    "wind_kmh": 20.7,
+    "elevation_m": 97.0
+  },
+  "33.9562_-118.3531_2026-06-12": {
+    "temp_max": 29.0,
+    "temp_min": 17.2,
+    "temp_avg": 23.1,
+    "humidity": 60.0,
+    "precip_mm": 0.0,
+    "wind_kmh": 13.4,
+    "elevation_m": 40.0
+  },
+  "37.2333_-121.6846_2026-06-13": {
+    "temp_max": 34.8,
+    "temp_min": 14.4,
+    "temp_avg": 24.6,
+    "humidity": 30.8,
+    "precip_mm": 0.0,
+    "wind_kmh": 9.7,
+    "elevation_m": 263.0
+  },
+  "40.834_-74.0971_2026-06-13": {
+    "temp_max": 31.4,
+    "temp_min": 20.8,
+    "temp_avg": 26.1,
+    "humidity": 32.0,
+    "precip_mm": 0.0,
+    "wind_kmh": 15.0,
+    "elevation_m": 26.0
+  },
+  "42.0654_-71.2478_2026-06-13": {
+    "temp_max": 30.5,
+    "temp_min": 21.5,
+    "temp_avg": 26.0,
+    "humidity": 36.4,
+    "precip_mm": 0.0,
+    "wind_kmh": 17.1,
+    "elevation_m": 91.0
+  },
+  "49.2609_-123.114_2026-06-13": {
+    "temp_max": 25.1,
+    "temp_min": 14.2,
+    "temp_avg": 19.6,
+    "humidity": 45.0,
+    "precip_mm": 0.0,
+    "wind_kmh": 14.1,
+    "elevation_m": 40.0
+  },
+  "29.7589_-95.3677_2026-06-14": {
+    "temp_max": 30.6,
+    "temp_min": 25.1,
+    "temp_avg": 27.9,
+    "humidity": 86.2,
+    "precip_mm": 23.3,
+    "wind_kmh": 14.6,
+    "elevation_m": 21.0
+  },
+  "39.9527_-75.1635_2026-06-14": {
+    "temp_max": 32.0,
+    "temp_min": 21.6,
+    "temp_avg": 26.8,
+    "humidity": 46.1,
+    "precip_mm": 4.3,
+    "wind_kmh": 21.6,
+    "elevation_m": 12.0
+  },
+  "32.7356_-97.1071_2026-06-14": {
+    "temp_max": 30.6,
+    "temp_min": 24.5,
+    "temp_avg": 27.6,
+    "humidity": 76.5,
+    "precip_mm": 7.2,
+    "wind_kmh": 16.4,
+    "elevation_m": 191.0
+  },
+  "25.6751_-100.2152_2026-06-14": {
+    "temp_max": 30.4,
+    "temp_min": 22.6,
+    "temp_avg": 26.5,
+    "humidity": 78.8,
+    "precip_mm": 4.6,
+    "wind_kmh": 14.5,
+    "elevation_m": 475.0
+  },
+  "47.6038_-122.3301_2026-06-15": {
+    "temp_max": 31.5,
+    "temp_min": 17.2,
+    "temp_avg": 24.4,
+    "humidity": 32.1,
+    "precip_mm": 0.0,
+    "wind_kmh": 18.7,
+    "elevation_m": 40.0
+  },
+  "33.9562_-118.3531_2026-06-15": {
+    "temp_max": 26.4,
+    "temp_min": 17.5,
+    "temp_avg": 21.9,
+    "humidity": 61.2,
+    "precip_mm": 0.0,
+    "wind_kmh": 14.0,
+    "elevation_m": 40.0
+  },
+  "33.7545_-84.3898_2026-06-15": {
+    "temp_max": 28.6,
+    "temp_min": 21.9,
+    "temp_avg": 25.2,
+    "humidity": 46.8,
+    "precip_mm": 0.0,
+    "wind_kmh": 12.6,
+    "elevation_m": 325.0
+  },
+  "25.942_-80.2456_2026-06-15": {
+    "temp_max": 32.7,
+    "temp_min": 24.9,
+    "temp_avg": 28.8,
+    "humidity": 77.0,
+    "precip_mm": 11.7,
+    "wind_kmh": 8.7,
+    "elevation_m": 5.0
+  },
+  "-3.1316_-59.9825_2014-06-18": {
+    "temp_max": 26.9,
+    "temp_min": 23.7,
+    "temp_avg": 25.3,
+    "humidity": 90.4,
+    "precip_mm": 12.8,
+    "wind_kmh": 5.4,
+    "elevation_m": 44.0
+  },
+  "25.6692_-100.2444_2026-06-14": {
+    "temp_max": 30.8,
+    "temp_min": 22.7,
+    "temp_avg": 26.8,
+    "humidity": 73.9,
+    "precip_mm": 3.0,
+    "wind_kmh": 11.6,
+    "elevation_m": 494.0
+  },
+  "32.7473_-97.0945_2026-06-14": {
+    "temp_max": 30.6,
+    "temp_min": 24.5,
+    "temp_avg": 27.6,
+    "humidity": 76.5,
+    "precip_mm": 7.2,
+    "wind_kmh": 16.4,
+    "elevation_m": 176.0
+  },
+  "29.6847_-95.4107_2026-06-14": {
+    "temp_max": 30.5,
+    "temp_min": 25.5,
+    "temp_avg": 28.0,
+    "humidity": 86.1,
+    "precip_mm": 27.9,
+    "wind_kmh": 14.6,
+    "elevation_m": 13.0
+  },
+  "39.9008_-75.1675_2026-06-14": {
+    "temp_max": 32.3,
+    "temp_min": 20.9,
+    "temp_avg": 26.6,
+    "humidity": 46.6,
+    "precip_mm": 4.1,
+    "wind_kmh": 21.8,
+    "elevation_m": 0.0
+  },
+  "47.5952_-122.3316_2026-06-15": {
+    "temp_max": 31.5,
+    "temp_min": 17.2,
+    "temp_avg": 24.4,
+    "humidity": 32.1,
+    "precip_mm": 0.0,
+    "wind_kmh": 18.7,
+    "elevation_m": 11.0
+  },
+  "33.9535_-118.3392_2026-06-15": {
+    "temp_max": 26.4,
+    "temp_min": 17.5,
+    "temp_avg": 21.9,
+    "humidity": 61.2,
+    "precip_mm": 0.0,
+    "wind_kmh": 14.0,
+    "elevation_m": 40.0
+  },
+  "33.7554_-84.4008_2026-06-15": {
+    "temp_max": 28.6,
+    "temp_min": 21.9,
+    "temp_avg": 25.2,
+    "humidity": 46.8,
+    "precip_mm": 0.0,
+    "wind_kmh": 12.6,
+    "elevation_m": 307.0
+  },
+  "25.958_-80.2389_2026-06-15": {
+    "temp_max": 32.7,
+    "temp_min": 24.9,
+    "temp_avg": 28.8,
+    "humidity": 77.0,
+    "precip_mm": 11.7,
+    "wind_kmh": 8.7,
+    "elevation_m": 5.0
+  },
+  "40.8135_-74.0745_2026-06-15": {
+    "temp_max": 25.0,
+    "temp_min": 17.3,
+    "temp_avg": 21.1,
+    "humidity": 45.5,
+    "precip_mm": 11.8,
+    "wind_kmh": 19.4,
+    "elevation_m": 4.0
+  },
+  "29.6847_-95.4107_2026-06-09": {
+    "temp_max": 31.5,
+    "temp_min": 24.6,
+    "temp_avg": 28.1,
+    "humidity": 70.4,
+    "precip_mm": 2.3,
+    "wind_kmh": 15.2,
+    "elevation_m": 13.0
+  },
+  "37.403_-121.97_2026-06-16": {
+    "temp_max": 27.5,
+    "temp_min": 14.2,
+    "temp_avg": 20.9,
+    "humidity": 46.0,
+    "precip_mm": 0.0,
+    "wind_kmh": 14.2,
+    "elevation_m": 3.0
+  },
+  "39.0489_-94.4839_2026-06-16": {
+    "temp_max": 27.6,
+    "temp_min": 16.5,
+    "temp_avg": 22.1,
+    "humidity": 41.4,
+    "precip_mm": 3.6,
+    "wind_kmh": 17.6,
+    "elevation_m": 259.0
+  },
+  "40.8135_-74.0745_2026-06-16": {
+    "temp_max": 26.4,
+    "temp_min": 14.1,
+    "temp_avg": 20.2,
+    "humidity": 39.1,
+    "precip_mm": 0.0,
+    "wind_kmh": 17.1,
+    "elevation_m": 4.0
+  },
+  "42.0909_-71.2643_2026-06-16": {
+    "temp_max": 24.5,
+    "temp_min": 14.6,
+    "temp_avg": 19.6,
+    "humidity": 36.6,
+    "precip_mm": 0.0,
+    "wind_kmh": 15.7,
+    "elevation_m": 89.0
+  }
+}

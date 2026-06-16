@@ -1,0 +1,17 @@
+venv/
+.env
+__pycache__/
+*.pyc
+.DS_Store
+_st_*.log
+
+# The raw match CSV re-downloads automatically from its public mirror, so we
+# don't commit it. Everything else under data/ (the processed model, caches,
+# and schedule) IS committed so the deployed app works without re-running the
+# whole pipeline.
+data/raw/matches.csv
+
+# Keep only the main README public; ignore all other markdown (private guides,
+# the presentation cheat sheet, etc.). The "!" line is the single exception.
+*.md
+!README.md

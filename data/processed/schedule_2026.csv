@@ -1,0 +1,73 @@
+date,home_team,away_team,venue,city,status,score,actual,pred_home_%,pred_draw_%,pred_away_%
+2026-06-11,Mexico,South Africa,Estadio Azteca,Mexico City,Played,2 - 0,Mexico win,,,
+2026-06-11,South Korea,Czech Republic,Estadio Akron,Zapopan,Played,2 - 1,South Korea win,,,
+2026-06-12,Canada,Bosnia and Herzegovina,BMO Field,Toronto,Played,1 - 1,Draw,,,
+2026-06-12,United States,Paraguay,SoFi Stadium,Inglewood,Played,4 - 1,United States win,,,
+2026-06-13,Qatar,Switzerland,Levi's Stadium,Santa Clara,Played,1 - 1,Draw,,,
+2026-06-13,Brazil,Morocco,MetLife Stadium,East Rutherford,Played,1 - 1,Draw,,,
+2026-06-13,Haiti,Scotland,Gillette Stadium,Foxborough,Played,0 - 1,Scotland win,,,
+2026-06-13,Australia,Turkey,BC Place,Vancouver,Played,2 - 0,Australia win,,,
+2026-06-14,Sweden,Tunisia,Estadio BBVA,Guadalupe,Played,5 - 1,Sweden win,,,
+2026-06-14,Netherlands,Japan,AT&T Stadium,Arlington,Played,2 - 2,Draw,,,
+2026-06-14,Germany,Curaçao,NRG Stadium,Houston,Played,7 - 1,Germany win,,,
+2026-06-14,Ivory Coast,Ecuador,Lincoln Financial Field,Philadelphia,Played,1 - 0,Ivory Coast win,,,
+2026-06-15,Belgium,Egypt,Lumen Field,Seattle,Played,1 - 1,Draw,,,
+2026-06-15,Iran,New Zealand,SoFi Stadium,Inglewood,Played,2 - 2,Draw,,,
+2026-06-15,Spain,Cape Verde,Mercedes-Benz Stadium,Atlanta,Played,0 - 0,Draw,,,
+2026-06-15,Saudi Arabia,Uruguay,Hard Rock Stadium,Miami Gardens,Played,1 - 1,Draw,,,
+2026-06-16,Austria,Jordan,Levi's Stadium,Santa Clara,Upcoming,-,-,77.5,12.7,9.7
+2026-06-16,Argentina,Algeria,Arrowhead Stadium,Kansas City,Upcoming,-,-,61.2,25.3,13.4
+2026-06-16,France,Senegal,MetLife Stadium,East Rutherford,Upcoming,-,-,86.9,6.8,6.3
+2026-06-16,Iraq,Norway,Gillette Stadium,Foxborough,Upcoming,-,-,13.7,8.2,78.1
+2026-06-17,Portugal,DR Congo,NRG Stadium,Houston,Upcoming,-,-,83.7,11.8,4.6
+2026-06-17,Uzbekistan,Colombia,Estadio Azteca,Mexico City,Upcoming,-,-,24.0,12.3,63.7
+2026-06-17,England,Croatia,AT&T Stadium,Arlington,Upcoming,-,-,69.4,10.3,20.3
+2026-06-17,Ghana,Panama,BMO Field,Toronto,Upcoming,-,-,28.7,16.7,54.6
+2026-06-18,Czech Republic,South Africa,Mercedes-Benz Stadium,Atlanta,Upcoming,-,-,47.6,31.4,21.0
+2026-06-18,Mexico,South Korea,Estadio Akron,Zapopan,Upcoming,-,-,79.2,11.4,9.4
+2026-06-18,Switzerland,Bosnia and Herzegovina,SoFi Stadium,Inglewood,Upcoming,-,-,88.3,6.7,5.0
+2026-06-18,Canada,Qatar,BC Place,Vancouver,Upcoming,-,-,60.7,31.3,8.0
+2026-06-19,Turkey,Paraguay,Levi's Stadium,Santa Clara,Upcoming,-,-,80.6,7.2,12.2
+2026-06-19,Scotland,Morocco,Gillette Stadium,Foxborough,Upcoming,-,-,12.2,23.4,64.4
+2026-06-19,Brazil,Haiti,Lincoln Financial Field,Philadelphia,Upcoming,-,-,80.0,12.5,7.5
+2026-06-19,United States,Australia,Lumen Field,Seattle,Upcoming,-,-,38.3,28.3,33.3
+2026-06-20,Netherlands,Sweden,NRG Stadium,Houston,Upcoming,-,-,85.9,8.1,6.0
+2026-06-20,Tunisia,Japan,Estadio BBVA,Guadalupe,Upcoming,-,-,14.2,9.3,76.6
+2026-06-20,Germany,Ivory Coast,BMO Field,Toronto,Upcoming,-,-,81.4,10.9,7.7
+2026-06-20,Ecuador,Curaçao,Arrowhead Stadium,Kansas City,Upcoming,-,-,63.1,32.3,4.6
+2026-06-21,Belgium,Iran,SoFi Stadium,Inglewood,Upcoming,-,-,73.8,17.3,9.0
+2026-06-21,New Zealand,Egypt,BC Place,Vancouver,Upcoming,-,-,26.7,12.5,60.9
+2026-06-21,Spain,Saudi Arabia,Mercedes-Benz Stadium,Atlanta,Upcoming,-,-,84.4,12.1,3.4
+2026-06-21,Uruguay,Cape Verde,Hard Rock Stadium,Miami Gardens,Upcoming,-,-,82.3,12.5,5.2
+2026-06-22,France,Iraq,Lincoln Financial Field,Philadelphia,Upcoming,-,-,84.2,11.0,4.8
+2026-06-22,Norway,Senegal,MetLife Stadium,East Rutherford,Upcoming,-,-,74.1,13.0,12.8
+2026-06-22,Argentina,Austria,AT&T Stadium,Arlington,Upcoming,-,-,78.0,8.8,13.2
+2026-06-22,Jordan,Algeria,Levi's Stadium,Santa Clara,Upcoming,-,-,28.9,8.6,62.5
+2026-06-23,Portugal,Uzbekistan,NRG Stadium,Houston,Upcoming,-,-,89.0,7.7,3.3
+2026-06-23,Colombia,DR Congo,Estadio Akron,Zapopan,Upcoming,-,-,87.2,8.9,3.9
+2026-06-23,England,Ghana,Gillette Stadium,Foxborough,Upcoming,-,-,80.6,15.9,3.5
+2026-06-23,Panama,Croatia,BMO Field,Toronto,Upcoming,-,-,9.5,26.9,63.5
+2026-06-24,Morocco,Haiti,Mercedes-Benz Stadium,Atlanta,Upcoming,-,-,83.9,10.3,5.8
+2026-06-24,Bosnia and Herzegovina,Qatar,Lumen Field,Seattle,Upcoming,-,-,36.1,47.3,16.6
+2026-06-24,Scotland,Brazil,Hard Rock Stadium,Miami Gardens,Upcoming,-,-,21.8,18.3,59.9
+2026-06-24,South Africa,South Korea,Estadio BBVA,Guadalupe,Upcoming,-,-,22.5,11.1,66.4
+2026-06-24,Mexico,Czech Republic,Estadio Azteca,Mexico City,Upcoming,-,-,59.1,19.5,21.3
+2026-06-24,Canada,Switzerland,BC Place,Vancouver,Upcoming,-,-,28.8,34.1,37.2
+2026-06-25,United States,Turkey,SoFi Stadium,Inglewood,Upcoming,-,-,22.6,36.1,41.3
+2026-06-25,Paraguay,Australia,Levi's Stadium,Santa Clara,Upcoming,-,-,68.3,16.8,14.9
+2026-06-25,Curaçao,Ivory Coast,Lincoln Financial Field,Philadelphia,Upcoming,-,-,11.6,17.7,70.7
+2026-06-25,Ecuador,Germany,MetLife Stadium,East Rutherford,Upcoming,-,-,22.7,50.4,26.9
+2026-06-25,Japan,Sweden,AT&T Stadium,Arlington,Upcoming,-,-,89.9,6.8,3.3
+2026-06-25,Tunisia,Netherlands,Arrowhead Stadium,Kansas City,Upcoming,-,-,29.6,12.8,57.6
+2026-06-26,Senegal,Iraq,BMO Field,Toronto,Upcoming,-,-,41.9,43.8,14.3
+2026-06-26,Norway,France,Gillette Stadium,Foxborough,Upcoming,-,-,20.1,43.8,36.1
+2026-06-26,Uruguay,Spain,Estadio Akron,Zapopan,Upcoming,-,-,21.9,18.8,59.3
+2026-06-26,New Zealand,Belgium,BC Place,Vancouver,Upcoming,-,-,20.7,10.2,69.1
+2026-06-26,Egypt,Iran,Lumen Field,Seattle,Upcoming,-,-,35.0,18.9,46.1
+2026-06-26,Cape Verde,Saudi Arabia,NRG Stadium,Houston,Upcoming,-,-,30.0,38.4,31.6
+2026-06-27,Panama,England,MetLife Stadium,East Rutherford,Upcoming,-,-,12.5,26.1,61.4
+2026-06-27,Algeria,Austria,Arrowhead Stadium,Kansas City,Upcoming,-,-,53.5,13.4,33.0
+2026-06-27,Jordan,Argentina,AT&T Stadium,Arlington,Upcoming,-,-,24.3,9.3,66.4
+2026-06-27,Colombia,Portugal,Hard Rock Stadium,Miami Gardens,Upcoming,-,-,57.9,19.3,22.8
+2026-06-27,DR Congo,Uzbekistan,Mercedes-Benz Stadium,Atlanta,Upcoming,-,-,40.0,27.8,32.2
+2026-06-27,Croatia,Ghana,Lincoln Financial Field,Philadelphia,Upcoming,-,-,79.4,12.3,8.3
